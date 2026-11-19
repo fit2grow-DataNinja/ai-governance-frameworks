@@ -26,10 +26,22 @@ Build a practical AI governance knowledge base and portfolio that shows how fram
 
 A future use-case here may demonstrate a method or compare frameworks using a clearly identified scenario. It should not duplicate a live project’s detailed governance record.
 
+## Learning and working process
+
+Use source material to build understanding before turning it into repository guidance or project claims:
+
+1. **Learn from the primary material.** Read the relevant regulation, framework, official guidance, or original case page; do not rely on a link title or a secondary summary alone.
+2. **Study examples selectively.** Start with a small number of relevant examples. Treat NIST AI RMF use-cases as reported applications, and the Commission AI literacy repository as a narrower set of Article 4-related practices—not as a general EU AI Act project-evaluation library.
+3. **Capture provenance and limits.** For each reviewed example, note its context, source type/date, relevant provision or framework topic, actions/evidence described, what it does not establish, and our questions or interpretation. See the workflow in the [source register](../sources/source-register.md).
+4. **Decide whether it changes an artifact.** Use the learning to refine a framework note, reusable template, or a future scenario-based use-case only when there is a clear reason. Keep source claims separate from our analysis.
+5. **Apply to projects with evidence.** Put project-specific decisions, controls, owners, status, and supporting evidence in the relevant solution repository. Do not claim compliance or implementation based only on resemblance to a published example.
+
+The published example collections support learning and exchange. They do not automatically validate the approaches they describe or establish that the same approach is suitable or sufficient for a different project.
+
 ## MVP boundaries
 
 - Focus on NIST AI RMF and the EU AI Act; other frameworks can be added later.
-- Separate binding legal text from Commission explanations, voluntary framework guidance, and repository-authored interpretation.
+- Separate binding legal text from Commission explanations, voluntary framework guidance, published examples, and repository-authored interpretation.
 - Do not claim templates are official forms unless linked to and accurately identified as such.
 - Do not infer that a portfolio prototype is high-risk or legally compliant without a scoped assessment.
 - Distinguish implemented, planned, not addressed, and not applicable.
