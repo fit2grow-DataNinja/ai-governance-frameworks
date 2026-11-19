@@ -26,9 +26,13 @@ Separate these kinds of statements:
 
 For project control status, use **implemented**, **planned**, **not addressed**, or **not applicable**. “Implemented” requires a link or reference to evidence. A proposal, design note, or checklist entry is not implementation evidence.
 
-## External source records
+## Required source-record practice
 
-For external claims, capture publisher, URL, title, publication/update date if available, date reviewed, exact claim or relevant passage summarized in our own words, evidence type, scope/limitations, confidence, related documents, and a recheck trigger. Use [the source-record template](../templates/source-record.template.md).
+**Create and complete a record using the [source-record template](../templates/source-record.template.md) whenever we review an external source in depth or use it to substantively inform a repository document, governance decision, or use-case.** This includes a specific NIST or EU example selected for analysis, not just laws and framework publications.
+
+A bare link may remain in the [source register](../sources/source-register.md) while it is only a research pointer and has not been reviewed or relied on. Once we examine it beyond an initial scan or use it to support or change our work, the source record is required. The record must distinguish the source’s statements from our interpretation and capture relevant scope, limitations, open questions, and follow-up.
+
+This is a repository learning and traceability rule. It does not mean every link needs a full record before anyone can read it, and completing a record does not establish legal applicability or compliance.
 
 ## Document lifecycle
 
