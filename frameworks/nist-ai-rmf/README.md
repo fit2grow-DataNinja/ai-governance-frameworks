@@ -1,0 +1,35 @@
+# NIST AI Risk Management Framework
+
+**Working orientation — last reviewed 19 November 2026**
+
+## What it is
+
+The NIST AI Risk Management Framework (AI RMF) is a voluntary framework for organizing management of risks associated with AI systems across design, development, deployment, use, and evaluation. The current published core is AI RMF 1.0; NIST’s AI Resource Center says that version is being revised, so check the official resource center for updates.
+
+## Core functions
+
+| Function | Working question |
+|---|---|
+| **Govern** | What organizational policies, responsibilities, culture, and oversight support AI risk management? |
+| **Map** | What is the system’s context, intended use, affected parties, and risk landscape? |
+| **Measure** | How will risks and system behavior be analyzed, assessed, tested, and tracked? |
+| **Manage** | How will identified risks be prioritized, treated, monitored, and responded to? |
+
+The functions connect and can be revisited iteratively; they are not a one-time linear checklist.
+
+## Useful companion resources
+
+- [AI RMF Core and official resources](https://airc.nist.gov/)
+- [AI RMF Playbook](https://airc.nist.gov/airmf-resources/playbook/)
+- [Generative AI Profile, NIST AI 600-1](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence)
+- [Documented use cases](https://airc.nist.gov/airmf-resources/usecases/)
+
+The Playbook offers voluntary suggestions aligned to Core outcomes. NIST describes it as a companion resource, not a complete checklist or mandatory sequence. Profiles adapt the RMF to a use case, technology, or sector. NIST does not validate or endorse the individual approaches shown in its use-case collection.
+
+## How this repository uses NIST
+
+Use the RMF to structure project questions, decisions, and evidence. For a portfolio project, identify relevant outcomes, explain why they matter in context, and link any claimed control to project evidence. Mapping to the RMF does not mean certification or compliance.
+
+## Review note
+
+Before expanding or applying this page, check the NIST Resource Center for the current framework and Playbook revision. Keep the version/date used in each project record.
