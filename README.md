@@ -12,8 +12,12 @@ This repository documents a developing, applied understanding of AI governance. 
 
 ## Repository guide
 
+- [Project status](PROJECT-STATUS.md)
+- [Learning and work roadmap](planning/roadmap.md)
 - [MVP scope and boundaries](planning/mvp-scope.md)
-- [Source register](sources/source-register.md)
+- [Documentation standards](governance/documentation-standards.md)
+- [Source-record template](templates/source-record.template.md)
+- [Source register and review workflow](sources/source-register.md)
 - [NIST AI Risk Management Framework](frameworks/nist-ai-rmf/README.md)
 - [EU AI Act](frameworks/eu-ai-act/README.md)
 - [EU AI Act project-evaluation matrix](working-documents/eu-ai-act-project-evaluation-matrix.md)
@@ -22,10 +26,10 @@ This repository documents a developing, applied understanding of AI governance. 
 
 ## How to read the material
 
-Documents distinguish official sources or requirements, repository interpretation, suggested practice, and project evidence. A suggested template is not automatically a legal requirement. Project records should identify scope, source versions, review date, assumptions, and open questions. Use **implemented**, **planned**, **not addressed**, or **not applicable** for control status, and link implemented claims to evidence.
+Documents distinguish official sources or requirements, repository interpretation, suggested practice, published examples, and project evidence. A suggested template is not automatically a legal requirement. Project records should identify scope, source versions, review date, assumptions, and open questions. Use **implemented**, **planned**, **not addressed**, or **not applicable** for control status, and link implemented claims to evidence.
 
 ## Status and limitations
 
 This is a learning and portfolio resource, not legal advice, an audit, certification, or a determination that a system complies with any law or standard. Frameworks, regulations, guidance, and applicability can change. Verify current primary sources and seek qualified advice when a real deployment requires a legal determination.
 
-Initial materials were prepared on 19 November 2026. See each framework page and the source register for source dates and review notes.
+Initial materials were prepared on 19 November 2026. See [project status](PROJECT-STATUS.md), each framework page, and the source register for source dates and review notes.
