@@ -25,11 +25,11 @@ This register prioritizes primary sources. The “Use” column describes how th
 When using a framework example, regulator practice collection, case study, or template:
 
 1. Read the linked source itself before using it to support a claim or changing a repository document.
-2. Record the source, date reviewed, source type, relevant provision or framework topic, and the example’s context.
-3. Summarize separately: what the source says; what actions or evidence it describes; what it does not establish; and our interpretation or open questions.
-4. Check whether the example is suitable for the project’s purpose, people, jurisdiction, and role. Adapt only with a clear rationale.
-5. Label any resulting material as official text/guidance, published example, or repository-authored interpretation. Do not imply endorsement or compliance merely because a practice appears in a collection.
-6. If it informs an actual project, document the project-specific decision, control, owner, status, and evidence in that project’s repository.
+2. Decide whether this is an initial scan or a substantive review. A link being listed in this register alone does not mean the source has been analyzed.
+3. **For every source reviewed in depth, or used to substantively inform a repository document, governance decision, or use-case, complete a source record from [the template](../templates/source-record.template.md).** A specific published example selected for analysis requires its own record.
+4. In that record, identify the source and date, relevant provision or framework topic, and context; summarize what it says; capture described actions/evidence, limits, and open questions; then state our interpretation separately.
+5. Check suitability for the project’s purpose, people, jurisdiction, and role. Adapt only with a clear rationale; label source type and do not imply endorsement or compliance merely because a practice appears in a collection.
+6. If it informs an actual project, document the project-specific decision, control, owner, status, and evidence in that project’s repository, and link it to the source record where useful.
 
 For initial learning, review a small selection of examples rather than treating a collection as a checklist. NIST AI RMF cases illustrate reported applications and are not individually validated or endorsed by NIST. The Commission’s AI literacy collection is narrower: it offers Article 4-related learning examples, and copying one does not automatically establish compliance.
 
