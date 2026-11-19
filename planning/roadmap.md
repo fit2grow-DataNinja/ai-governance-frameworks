@@ -21,12 +21,12 @@ This roadmap sequences learning and repository work. It is separate from [MVP sc
 **Status: Planned — next**
 
 1. Review each template section against the relevant primary source or authoritative guidance.
-2. Record sources, exact relevant provisions, review dates, scope, limitations, and open questions using the source-record template.
+2. For every source examined in depth or used to support a substantive revision, create a completed source record using [the template](../templates/source-record.template.md). A source merely listed as a research pointer does not yet need a record.
 3. Label each prompt as a legal requirement, official guidance, framework suggestion, separate legal check, or repository-authored working question.
 4. Revise or remove prompts that are unsupported, too broad, or misleading; add precise citations where useful.
 5. Update the status page to reflect what was reviewed and what remains uncertain.
 
-**Checkpoint:** A source-mapped draft with unresolved questions visible; not a claim of legal validation.
+**Checkpoint:** A source-mapped draft with source records for sources substantively reviewed or relied on, unresolved questions visible, and no claim of legal validation.
 
 ## Phase 2 — Review selected examples
 
@@ -34,10 +34,11 @@ This roadmap sequences learning and repository work. It is separate from [MVP sc
 
 - Review a small number of NIST AI RMF use-cases as reported applications.
 - Review a small number of European Commission AI literacy practices for Article 4 learning; do not treat these as general AI Act project-evaluation cases.
+- Create a source record for each selected example reviewed in depth or used to inform repository work.
 - Record context, source claim, actions/evidence described, what the example does not establish, and our interpretation.
 - Decide whether the material improves framework notes, reusable methods, or the screening template.
 
-**Checkpoint:** Short evidence notes grounded in sources the project owner has reviewed.
+**Checkpoint:** Short evidence notes grounded in sources the project owner has reviewed, with a source record for each one substantively used.
 
 ## Phase 3 — Apply the reviewed method to a bounded scenario
 
