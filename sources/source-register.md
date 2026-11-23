@@ -5,8 +5,9 @@ This register prioritizes primary sources. The “Use” column describes how th
 
 | Source | Type / status | Used for | Notes |
 |---|---|---|---|
-| [NIST AI RMF 1.0](https://www.nist.gov/itl/ai-risk-management-framework) | Official voluntary framework | NIST framework overview and outcome structure | NIST’s Resource Center states AI RMF 1.0 is being revised. Check for a newer version before relying on this snapshot. |
-| [NIST AI RMF Playbook](https://airc.nist.gov/airmf-resources/playbook/) | Official companion resource; suggested actions are voluntary | Operational examples and documentation practices | Not a checklist or prescribed ordered process; select and adapt relevant suggestions. |
+| [NIST AI RMF 1.0](https://www.nist.gov/itl/ai-risk-management-framework) | Official voluntary framework | Core outcomes and framework orientation | AI RMF 1.0 is being revised. See [SRC-013](records/SRC-013-nist-ai-rmf-core-and-profiles.md) for the Core and Profile basis used in the planned application documents.
+| [NIST AI RMF Profiles](https://airc.nist.gov/airmf-resources/airmf/6-sec-profile/) | Official excerpt from AI RMF 1.0 | Tailoring outcomes to a specific setting and comparing current/target profiles | NIST does not prescribe profile templates. See [SRC-013](records/SRC-013-nist-ai-rmf-core-and-profiles.md). |
+| [NIST AI RMF Playbook](https://airc.nist.gov/airmf-resources/playbook/) | Official companion resource; suggested actions are voluntary | Optional action suggestions aligned to Core subcategories | Not a checklist or prescribed sequence; see [SRC-014](records/SRC-014-nist-ai-rmf-playbook.md).
 | [NIST AI RMF Generative AI Profile, NIST AI 600-1](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence) | Official NIST profile | GenAI-specific risks and suggested actions | Companion to AI RMF 1.0; confirm latest NIST status when updating. |
 | [NIST AI RMF use cases](https://airc.nist.gov/airmf-resources/usecases/) | NIST-published examples | Examples of organizations applying the RMF | NIST says it does not validate or endorse the individual approaches shown. Reviewed examples: [City of San José (SRC-009)](records/SRC-009-city-of-san-jose-nist-ai-rmf-case.md) and [Workday (SRC-010)](records/SRC-010-workday-nist-ai-rmf-case.md). |
 | [EU AI Act, consolidated text](https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng) | Binding EU regulation (consolidated text) | Legal references and obligations | Consolidated text snapshot dated 27 July 2026, including Regulation (EU) 2026/1744. Source reviewed for Phase 1 on 23 November 2026; check EUR-Lex for later amendments. See [SRC-001](records/SRC-001-eu-ai-act-consolidated-text.md). |
@@ -60,3 +61,10 @@ For initial learning, review a small selection of examples rather than treating 
 - [SRC-012 — OpenSky Data Systems AI literacy practice](records/SRC-012-opensky-ai-literacy-practice.md)
 
 See the [Phase 2 example review](../working-documents/phase-2-example-review.md) for the cross-case synthesis and repository decisions.
+
+## NIST application-document source records
+
+- [SRC-013 — NIST AI RMF Core and Profiles](records/SRC-013-nist-ai-rmf-core-and-profiles.md)
+- [SRC-014 — NIST AI RMF Playbook](records/SRC-014-nist-ai-rmf-playbook.md)
+
+See the [NIST documentation-development approach](../working-documents/nist-ai-rmf-documentation-development-approach.md) for the planned company-document scan, outcome mapping, template derivation, and maintenance steps.
