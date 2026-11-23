@@ -17,7 +17,7 @@
 
 - Claim or topic being investigated: How an AI deployer reports organizing literacy and enablement across employee groups.
 - Exact provision, framework section, or example: VERBUND’s reported literacy program in the context of AI Act Article 4
-- Why it is relevant to this repository or project: It connects role-specific learning, organizational coordination, distributed support, and accessibility of learning materials—topics relevant to later AI enablement and readiness work.
+- Why it is relevant to this repository or project: The Commission page describes those reported themes, but does not publish the underlying training materials or operating tools. It is not a working-document source for the repository’s templates.
 
 ## What the source says
 
@@ -34,7 +34,7 @@ The page reports that the initiative reached nearly 30% of the total workforce a
 
 ## Our analysis
 
-- Possible relevance to a project or reusable document: Illustrates how AI literacy can be treated as a coordinated organizational enablement activity rather than a single generic training event.
+- Possible relevance to a project or reusable document: The practice page is a descriptive summary, not a reusable curriculum, assessment form, or operating procedure. Do not derive template fields from its generic statements.
 - Adaptations required and rationale: Tailor audience, role tracks, content, format, ownership, and feedback to the actual systems and people in scope. Do not treat the reported reach or program design as a compliance threshold.
 - Open questions: How are learning needs identified for each AI system and affected role? How do attendance or survey signals lead to program changes?
 - Confidence: High that this summarizes the published page; limited confidence in effectiveness and compliance conclusions because those are not established by the page.
@@ -42,6 +42,6 @@ The page reports that the initiative reached nearly 30% of the total workforce a
 ## Follow-up
 
 - Related repository document(s): [Article 4 source record](SRC-008-ai-act-article-4-ai-literacy.md); [EU AI Act orientation](../../frameworks/eu-ai-act/README.md); [Phase 2 example review](../../working-documents/phase-2-example-review.md)
-- Decision: No change to the legal matrix; retain as an illustrative learning input for future readiness and enablement method work.
+- Decision: No change to the legal matrix. Retain this record to document that the practice page was reviewed and found insufficient as a source of working materials; do not use it to derive template fields.
 - Recheck trigger: The Commission updates the practice page or publishes guidance that changes the Article 4 learning context.
 - Next review date: On the next Article 4/source maintenance review.
