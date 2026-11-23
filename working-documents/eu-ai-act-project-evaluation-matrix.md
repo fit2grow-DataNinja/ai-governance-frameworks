@@ -24,19 +24,31 @@ The dates below reflect the consolidated text reviewed on **23 November 2026**. 
 - The Regulation’s general application date is **2 August 2026**, subject to specific staged provisions.
 - Under the amended Article 113, specified new Article 5(1)(ba) and (bb), and Article 5(1a) and (1b), apply from **2 December 2026**.
 - The amended transition provides that Annex III high-risk requirements apply from **2 December 2027** and Annex I high-risk requirements from **2 August 2028**, subject to the exact text and relevant system facts.
-- Article 50(2) includes a transition for providers of systems placed on the market before **2 August 2026**; check Article 111(3) and the exact system facts.
+- Article 50(2) includes a transition for providers of systems placed on the market before **2 August 2026**; this transition is in Article 111(4), and applies by **2 December 2026**. Check the exact system facts and text.
 
 These dates are not a substitute for checking the current consolidated Regulation and any provision-specific transition.
 
 ## Official evaluation support and status
 
-- [Binding Regulation — consolidated EUR-Lex text](https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng): controlling legal text for this snapshot.
-- [High-risk classification guidelines](https://digital-strategy.ec.europa.eu/en/policies/guidelines-classification-high-risk-ai-systems): Commission draft published 19 May 2026; consultation closed 23 July 2026; final guidance was planned by end-2026. As of this review date, treat the draft as non-binding and not final.
-- [AI Act Service Desk high-risk classification principles](https://ai-act-service-desk.ec.europa.eu/en/general-principles-classification-high-risk-ai-systems): official implementation support; guidance does not replace the Regulation.
-- [EU AI Act Compliance Checker](https://ai-act-service-desk.ec.europa.eu/en/eu-ai-act-compliance-checker): beta informational issue-spotting tool; its output is not legal advice or a Commission determination.
-- [Annex IV](https://ai-act-service-desk.ec.europa.eu/en/ai-act/annex-4): technical-documentation elements for applicable high-risk systems.
-- [Article 27 draft FRIA template announcement](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-draft-template-fundamental-rights-impact-assessment-under-ai-act): draft questionnaire/template announced 16 November 2026; consultation open until 15 January 2027. It is not an adopted official template as of this review date. Article 27 applies only to specified deployers.
-- [Article 50 transparency guidance](https://ai-act-service-desk.ec.europa.eu/en/ai-act/resource/guidelines-transparency-ai-generated-content): Commission guidance published 20 July 2026; interpretive support, not binding legislation.
+- [Binding Regulation — consolidated EUR-Lex text](https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng): controlling legal text for this snapshot. See [SRC-001](../sources/records/SRC-001-eu-ai-act-consolidated-text.md).
+- [High-risk classification guidelines](https://digital-strategy.ec.europa.eu/en/policies/guidelines-classification-high-risk-ai-systems): Commission draft published 19 May 2026; consultation closed 23 July 2026; final guidance was planned by end-2026. As of this review date, treat the draft as non-binding and not final. See [SRC-002](../sources/records/SRC-002-high-risk-classification-guidance.md).
+- [AI Act Service Desk high-risk classification principles](https://ai-act-service-desk.ec.europa.eu/en/general-principles-classification-high-risk-ai-systems): official implementation support; guidance does not replace the Regulation. See [SRC-005](../sources/records/SRC-005-classification-principles.md).
+- [EU AI Act Compliance Checker](https://ai-act-service-desk.ec.europa.eu/en/eu-ai-act-compliance-checker): beta informational issue-spotting tool; its output is not legal advice or a Commission determination. See [SRC-006](../sources/records/SRC-006-compliance-checker.md).
+- [Annex IV](https://ai-act-service-desk.ec.europa.eu/en/ai-act/annex-4): technical-documentation elements for applicable high-risk systems. See [SRC-007](../sources/records/SRC-007-annex-iv.md).
+- [Article 27 draft FRIA template announcement](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-draft-template-fundamental-rights-impact-assessment-under-ai-act): draft questionnaire/template announced 16 November 2026; consultation open until 15 January 2027. It is not an adopted official template as of this review date. Article 27 applies only to specified deployers. See [SRC-004](../sources/records/SRC-004-article-27-draft-fria-template.md).
+- [Article 50 transparency guidance](https://ai-act-service-desk.ec.europa.eu/en/ai-act/resource/guidelines-transparency-ai-generated-content): Commission guidance published 20 July 2026; interpretive support, not binding legislation. See [SRC-003](../sources/records/SRC-003-article-50-transparency-guidance.md).
+
+## Open questions for later review
+
+These issues depend on facts, further interpretation, or future source updates. They are not resolved by this general-purpose matrix.
+
+- How should a particular system’s intended purpose, significant influence on decision-making, and Article 6(3) conditions be evidenced?
+- Which organization performs each statutory role in a specific deployment, especially where a system is adapted, rebranded, or substantially modified?
+- Which Article 27 trigger applies to the deployer and use context, and what final FRIA template or guidance will the Commission publish?
+- How do provision-specific transitional rules apply to an existing system, significant changes, or a concrete launch date?
+- Which other AI Act provisions and non-AI laws apply independently of the Article 5/6/50 screens?
+
+A real assessment should route unresolved legal classification and applicability questions to qualified counsel or the relevant competent authority as appropriate.
 
 ## Suggested screening sequence
 
