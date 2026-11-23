@@ -20,7 +20,8 @@ Build a source-grounded AI governance knowledge base and portfolio showing how f
 
 - Reviewed the consolidated EU AI Act text snapshot dated 27 July 2026 and selected official Commission guidance on 23 November 2026.
 - Revised the EU matrix and screening record for Article 6 classification details, actor/value-chain roles, Article 50 distinctions, applicable dates, and evidence labeling.
-- Source records for the materials used in this review are still to be added; Phase 1 is therefore **in progress**, not complete.
+- Added and linked four source records for the legal text, draft classification guidance, Article 50 guidance, and draft Article 27 FRIA template.
+- Phase 1 remains **in progress** while provision-level citations and transition dates receive a final cross-check and open questions are captured.
 - The classification guidelines reviewed are draft guidance, and the Article 27 FRIA template is draft consultation material; neither is represented as adopted binding law.
 - The matrix and template remain repository-authored learning aids, not legal advice or proof of compliance.
 - Project-specific application, controls, decisions, and evidence belong in the relevant solution repository.
@@ -28,7 +29,7 @@ Build a source-grounded AI governance knowledge base and portfolio showing how f
 
 ## Next focus
 
-Complete Phase 1 by adding source records for material reviewed, checking provision-specific citations and transition dates against the consolidated Regulation, and recording open questions. See [the learning and work roadmap](planning/roadmap.md).
+Complete Phase 1 by cross-checking provision-specific citations and transition dates against the consolidated Regulation, recording open interpretive questions, and then updating the roadmap status. See [the learning and work roadmap](planning/roadmap.md) and [Phase 1 source records](sources/source-register.md#phase-1-source-records).
 
 ## Evidence and status conventions
 
