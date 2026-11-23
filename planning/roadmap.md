@@ -49,16 +49,18 @@ This roadmap sequences learning and repository work. It is separate from [MVP sc
 
 The detailed workflow is in the [NIST documentation-development approach](../working-documents/nist-ai-rmf-documentation-development-approach.md).
 
-1. Confirm the company-document research scope, inclusion criteria, and purposeful sample.
-2. Collect public AI governance documents from the selected organizations and register source metadata.
-3. Classify each document by stated intent and substantive content.
-4. Map supported passages or practices to NIST Core functions, categories, and subcategories; use Playbook suggestions only as voluntary supporting material.
-5. Compare recurring document intents, variations, and evidence limits without treating frequency as a requirement or proof of effectiveness.
-6. Derive a NIST application matrix and project assessment record. For each proposed field, record its NIST anchor, external basis, rationale, evidence use, source type, limits, and change trigger.
-7. Review the drafts for traceability, source status, versioning, and clarity that repository-created fields are not NIST-prescribed.
-8. Agree a practical maintenance cadence and record how revisions to NIST sources or new applied evidence trigger changes.
+1. Confirm the NIST Core, Profiles, and Playbook versions and source status.
+2. Extract the Core outcomes and Profile concepts; define the coverage and tailoring approach.
+3. Draft the NIST application matrix and project assessment record directly from those NIST sources, recording the rationale and external reference for each proposed field. Label Playbook suggestions as voluntary.
+4. Review the drafts for source fidelity and confirm they support contextual selection rather than mandatory checklist completion.
+5. Define a bounded, purposeful sample of larger organizations and inclusion criteria for actual public working materials.
+6. Collect and register those artifacts; generic case narratives and high-level statements do not count as working documents.
+7. Classify artifact intent and the evidence it provides, distinguishing policy/commitment, defined process, evidence of operation, and independent assurance.
+8. Map supported company-document passages back to NIST points. Allow partial or no mapping; do not force fit.
+9. Use the scan to review the practical usefulness of the drafts and refine them only with a documented rationale.
+10. Report documentary alignment and available evidence without claiming implementation or effectiveness beyond what the evidence supports.
 
-**Checkpoint:** A reviewable document-intent taxonomy and two draft NIST working documents with traceable rationales and source links. These are repository-created learning aids, not NIST-issued tools or compliance checklists.
+**Checkpoint:** Two reviewable NIST working-document drafts derived from NIST sources, with a crosswalk to selected company working materials, traceable rationales, and explicit evidence limits. The drafts are repository-created learning aids, not NIST-issued tools or compliance checklists.
 
 ## Phase 4 — Apply the NIST materials to a bounded scenario
 
