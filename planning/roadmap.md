@@ -28,6 +28,8 @@ This roadmap sequences learning and repository work. It is separate from [MVP sc
 
 **Checkpoint met:** Source-mapped working documents, source records, visible unresolved questions, and no claim of legal validation. Recheck the consolidated law and guidance before applying the material to a real deployment.
 
+**Before v1.0:** Establish the matrix’s baseline version, release date, and legal-source snapshot. Confirm the matrix contains a reader-facing change record. After release, material changes must record the reason, affected content, and supporting source or use-case; see [versioning and change rationale](../governance/documentation-standards.md#versioning-and-change-rationale).
+
 ## Phase 2 — Review selected examples
 
 **Status: Planned**
