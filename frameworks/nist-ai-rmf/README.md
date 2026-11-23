@@ -30,6 +30,10 @@ The Playbook offers voluntary suggestions aligned to Core outcomes. NIST describ
 
 Use the RMF to structure project questions, decisions, and evidence. For a portfolio project, identify relevant outcomes, explain why they matter in context, and link any claimed control to project evidence. Mapping to the RMF does not mean certification or compliance.
 
+## Planned NIST working documents
+
+The repository is developing a traceable application matrix and project assessment record. These will be repository-created learning aids that select and tailor Core outcomes to a specific use case; they will not be NIST-prescribed checklists. The [development approach](../../working-documents/nist-ai-rmf-documentation-development-approach.md) defines the research, mapping, traceability, and maintenance steps. See [SRC-013](../../sources/records/SRC-013-nist-ai-rmf-core-and-profiles.md) and [SRC-014](../../sources/records/SRC-014-nist-ai-rmf-playbook.md) for the reviewed source basis.
+
 ## Review note
 
 Before expanding or applying this page, check the NIST Resource Center for the current framework and Playbook revision. Keep the version/date used in each project record.
