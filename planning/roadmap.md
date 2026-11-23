@@ -1,7 +1,7 @@
 # Learning and work roadmap
 
 **Status:** Working sequence  
-**Last reviewed:** 19 November 2026
+**Last reviewed:** 23 November 2026
 
 This roadmap sequences learning and repository work. It is separate from [MVP scope and boundaries](mvp-scope.md), which defines what the repository is for.
 
@@ -18,15 +18,22 @@ This roadmap sequences learning and repository work. It is separate from [MVP sc
 
 ## Phase 1 — Validate the screening record and EU matrix
 
-**Status: Planned — next**
+**Status: In progress**
 
-1. Review each template section against the relevant primary source or authoritative guidance.
-2. For every source examined in depth or used to support a substantive revision, create a completed source record using [the template](../templates/source-record.template.md). A source merely listed as a research pointer does not yet need a record.
-3. Label each prompt as a legal requirement, official guidance, framework suggestion, separate legal check, or repository-authored working question.
-4. Revise or remove prompts that are unsupported, too broad, or misleading; add precise citations where useful.
-5. Update the status page to reflect what was reviewed and what remains uncertain.
+Completed in this review:
 
-**Checkpoint:** A source-mapped draft with source records for sources substantively reviewed or relied on, unresolved questions visible, and no claim of legal validation.
+- Reviewed the current consolidated EU AI Act text (27 July 2026 snapshot) and the relevant Articles 5, 6, 16, 25–27, 49, 50, 111, and 113.
+- Reviewed official Commission material on high-risk classification, Article 50 transparency, and the draft Article 27 FRIA template.
+- Updated the matrix and screening template to capture Article 6 conditions, provider/deployer and value-chain roles, distinct Article 50 duties, transition dates, and the difference between legal duties and suggested evidence.
+
+Still required to meet the checkpoint:
+
+1. Add completed source records for each source substantively used in this review.
+2. Verify each provision citation and date against the exact consolidated legal text and any provision-specific transition.
+3. Record open interpretive questions and make the source mapping easy to navigate from the working documents.
+4. Update the status page after the source records are committed.
+
+**Checkpoint:** A source-mapped draft with records for sources substantively reviewed or relied on, unresolved questions visible, and no claim of legal validation.
 
 ## Phase 2 — Review selected examples
 
