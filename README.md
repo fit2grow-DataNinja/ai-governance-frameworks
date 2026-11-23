@@ -4,11 +4,12 @@ A practical learning and portfolio repository for applying AI governance framewo
 
 ## Purpose and repository relationships
 
-This repository documents a developing, applied understanding of AI governance. It complements the [AI Services Portfolio](https://github.com/fit2grow-DataNinja/ai-services-portfolio) and separate solution repositories.
+This repository is the central source for reusable, source-grounded AI governance framework knowledge and governance methods.
 
-- This repository holds reusable framework notes, methods, templates, and governance-focused use-cases.
-- Individual solution repositories hold the authoritative project-specific assessments, decisions, tests, evidence, and implementation status.
-- The AI Services Portfolio provides a cross-project overview and links between the work.
+- [AI Organizational Readiness](https://github.com/fit2grow-DataNinja/ai-organizational-readiness) owns reusable organizational capability assessment material.
+- [AI Enablement Method](https://github.com/fit2grow-DataNinja/ai-enablement-method) owns the repeatable process for combining governance, readiness, and use-case requirements. Its [repository map](https://github.com/fit2grow-DataNinja/ai-enablement-method/blob/main/REPOSITORY-MAP.md) defines the shared interfaces and feedback process.
+- Applied solution repositories own project-specific assessments, decisions, tests, evidence, implementation status, and limitations.
+- The [AI Services Portfolio](https://github.com/fit2grow-DataNinja/ai-services-portfolio) summarizes the work and links to its detailed records.
 
 ## Repository guide
 
@@ -33,7 +34,6 @@ Documents distinguish official sources or requirements, repository interpretatio
 This is a learning and portfolio resource, not legal advice, an audit, certification, or a determination that a system complies with any law or standard. Frameworks, regulations, guidance, and applicability can change. Verify current primary sources and seek qualified advice when a real deployment requires a legal determination.
 
 Initial materials were prepared on 19 November 2026. See [project status](PROJECT-STATUS.md), each framework page, and the source register for source dates and review notes.
+## Repository map
 
-## Relationship to AI readiness and enablement
-
-This repository is the central home for reusable, source-grounded AI governance framework knowledge and governance methods. It is distinct from [AI Organizational Readiness](https://github.com/fit2grow-DataNinja/ai-organizational-readiness), which focuses on organizational capabilities, and [AI Enablement Method](https://github.com/fit2grow-DataNinja/ai-enablement-method), which will explain how governance, readiness, and use-case requirements are assessed together. Project-specific applications and evidence remain with the relevant AI solution repositories; the [AI Services Portfolio](https://github.com/fit2grow-DataNinja/ai-services-portfolio) provides showcase and navigation.
+See the [AI Enablement Method repository map](https://github.com/fit2grow-DataNinja/ai-enablement-method/blob/main/REPOSITORY-MAP.md) for the shared repository responsibilities, information flow, and feedback process.
