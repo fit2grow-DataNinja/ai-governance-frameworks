@@ -1,7 +1,7 @@
 # Project status — AI Governance Frameworks
 
 **Last updated:** 2026-11-23  
-**Stage:** Repository foundation established; Phases 1 and 2 complete.  
+**Stage:** Repository foundation established; Phases 1 and 2 complete; Phase 3 NIST working-document development planned.  
 **Status:** Active learning and documentation project. Working documents are issue-spotting drafts, not validated compliance tools.
 
 ## Purpose
@@ -34,7 +34,7 @@ Build a source-grounded AI governance knowledge base and portfolio showing how f
 
 ## Next focus
 
-Proceed to Phase 3 in [the learning and work roadmap](planning/roadmap.md): select a bounded portfolio scenario and apply the screening method, keeping assumptions distinct from project evidence and preserving project-specific records in the relevant solution repository.
+Proceed to Phase 3 in [the learning and work roadmap](planning/roadmap.md): develop a traceable NIST AI RMF application matrix and project assessment record, informed by a bounded review of public company documents. The [development approach](working-documents/nist-ai-rmf-documentation-development-approach.md) defines the steps and traceability fields. No NIST application matrix or project assessment template has been drafted yet.
 
 ## Evidence and status conventions
 
