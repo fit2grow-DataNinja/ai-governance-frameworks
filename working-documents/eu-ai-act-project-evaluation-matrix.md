@@ -3,6 +3,7 @@
 **Purpose:** A structured learning and issue-spotting aid for a project.  
 **Review date:** 23 November 2026  
 **Legal text snapshot reviewed:** Consolidated Regulation (EU) 2024/1689, EUR-Lex version dated 27 July 2026, including Regulation (EU) 2026/1744. Verify EUR-Lex for later amendments before applying this aid to a real deployment.
+**Document version:** Working draft — pre-v1.0; version baseline not yet established.
 
 This is a repository-authored synthesis, not an official EU template or legal opinion. The matrix separates **binding legal obligations**, **official but non-binding guidance**, and **potential records and evidence**. Evidence examples are suggested project artifacts; they are not automatically required by law. Classification depends on the system’s intended purpose, context, characteristics, and the roles actually performed by each organization. An issue-spotting result is preliminary and does not establish compliance.
 
@@ -48,6 +49,16 @@ These dates are not a substitute for checking the current consolidated Regulatio
 - [Annex IV](https://ai-act-service-desk.ec.europa.eu/en/ai-act/annex-4): technical-documentation elements for applicable high-risk systems. See [SRC-007](../sources/records/SRC-007-annex-iv.md).
 - [Article 27 draft FRIA template announcement](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-draft-template-fundamental-rights-impact-assessment-under-ai-act): draft questionnaire/template announced 16 November 2026; consultation open until 15 January 2027. It is not an adopted official template as of this review date. Article 27 applies only to specified deployers. See [SRC-004](../sources/records/SRC-004-article-27-draft-fria-template.md).
 - [Article 50 transparency guidance](https://ai-act-service-desk.ec.europa.eu/en/ai-act/resource/guidelines-transparency-ai-generated-content): Commission guidance published 20 July 2026; interpretive support, not binding legislation. See [SRC-003](../sources/records/SRC-003-article-50-transparency-guidance.md).
+
+## Versioning and change record
+
+Maintain this as one current matrix; legal or guidance changes do not by themselves require parallel copies. Preserve prior file states in Git history. Project screening records should identify the matrix version (once baselined), assessment date, and legal-source snapshot used.
+
+Before labelling this matrix **v1.0**, establish its release date, version, and source snapshot. After v1.0, record every material update here with its date/version, reason, affected content, and supporting source or use-case. Reasons may include an amendment to binding law, new or revised official guidance, lessons from an applied use-case, or a correction to the matrix.
+
+| Date | Version/status | Reason and affected content | Basis |
+|---|---|---|---|
+| 23 November 2026 | Working draft — pre-v1.0 | Source-mapped review; added the non-binding guidance column and supplementary obligations checklist; clarified framework-level open questions. | Phase 1 source records linked in the [source register](../sources/source-register.md). |
 
 ## Framework-level open questions
 
