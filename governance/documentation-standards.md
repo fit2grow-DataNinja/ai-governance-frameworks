@@ -34,10 +34,16 @@ A bare link may remain in the [source register](../sources/source-register.md) w
 
 This is a repository learning and traceability rule. It does not mean every link needs a full record before anyone can read it, and completing a record does not establish legal applicability or compliance.
 
+## Versioning and change rationale
+
+For a maintained matrix or reusable method, keep one current authoritative document unless a real need requires a separate jurisdictional or historical version. Git history preserves prior file states; it does not replace a reader-facing explanation of why the document changed.
+
+Before declaring the EU AI Act matrix **v1.0**, establish its release date, version, and legal-source snapshot. After that baseline, record each material change in the matrix’s change record: date/version, reason, affected sections, and supporting source or use-case. Reasons may include changes to binding law, new or revised official guidance, lessons from an applied use-case, or correction of an error. Project-specific assessments should identify the matrix version and legal-source snapshot they used.
+
 ## Document lifecycle
 
 - Mark new matrices, templates, and framework notes as drafts until their sources and scope have been reviewed.
 - Track active and planned work in [the roadmap](../planning/roadmap.md); summarize current state in [PROJECT-STATUS.md](../PROJECT-STATUS.md).
-- When a document is revised, update its review date and links, and record material unresolved issues.
+- When a document is revised, update its review date and links, record material unresolved issues, and follow the versioning/change-rationale practice above where applicable.
 - Do not call a working aid an official or complete compliance template unless the source establishes that status.
 - Keep legal applicability decisions and project evidence with the relevant project repository; this repository contains reusable learning and methods.
