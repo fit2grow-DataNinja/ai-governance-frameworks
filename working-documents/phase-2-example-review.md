@@ -7,12 +7,12 @@ This note records a small, bounded review of published NIST AI RMF use cases and
 
 ## Selection and source records
 
-| Example | What it helps examine | Record |
-|---|---|---|
-| City of San José | Public-sector governance review, self-assessment, procurement and evaluation gaps | [SRC-009](../sources/records/SRC-009-city-of-san-jose-nist-ai-rmf-case.md) |
-| Workday | Provider-side mapping of an existing control framework to the AI RMF, product risk and third-party assessment | [SRC-010](../sources/records/SRC-010-workday-nist-ai-rmf-case.md) |
-| VERBUND | Literacy and enablement across an energy-sector deployer’s workforce | [SRC-011](../sources/records/SRC-011-verbund-ai-literacy-practice.md) |
-| OpenSky Data Systems | Role-specific literacy across technical/non-technical staff and client contexts | [SRC-012](../sources/records/SRC-012-opensky-ai-literacy-practice.md) |
+| Example | Framework / regional context | What it helps examine | Record |
+|---|---|---|---|
+| City of San José | **NIST AI RMF** — U.S. public-sector example; not an EU AI Act assessment | Public-sector governance review, self-assessment, procurement and evaluation gaps | [SRC-009](../sources/records/SRC-009-city-of-san-jose-nist-ai-rmf-case.md) |
+| Workday | **NIST AI RMF** — corporate example; not an EU AI Act assessment | Provider-side mapping of an existing control framework to the AI RMF, product risk and third-party assessment | [SRC-010](../sources/records/SRC-010-workday-nist-ai-rmf-case.md) |
+| VERBUND | **EU AI Act, Article 4 AI literacy** — Austrian organization; Commission practice example | Literacy and enablement across an energy-sector deployer’s workforce | [SRC-011](../sources/records/SRC-011-verbund-ai-literacy-practice.md) |
+| OpenSky Data Systems | **EU AI Act, Article 4 AI literacy** — Irish organization; Commission practice example | Role-specific literacy across technical/non-technical staff and client contexts | [SRC-012](../sources/records/SRC-012-opensky-ai-literacy-practice.md) |
 
 The legal anchor for the Commission literacy examples is [Article 4](../sources/records/SRC-008-ai-act-article-4-ai-literacy.md).
 
