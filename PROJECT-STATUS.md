@@ -34,7 +34,7 @@ Build a source-grounded AI governance knowledge base and portfolio showing how f
 
 ## Next focus
 
-Proceed to Phase 3 in [the learning and work roadmap](planning/roadmap.md): develop a traceable NIST AI RMF application matrix and project assessment record, informed by a bounded review of actual public company working materials. Generic case narratives are excluded as sources for template fields. The [development approach](working-documents/nist-ai-rmf-documentation-development-approach.md) defines the steps and traceability fields. No NIST application matrix or project assessment template has been drafted yet.
+Proceed to Phase 3 in [the learning and work roadmap](planning/roadmap.md): derive the NIST application matrix and project assessment record from the Core, Profiles, and Playbook first. Then review actual public company working materials and map documented evidence back to NIST points. This assesses documentary alignment and available evidence; it does not establish implementation or effectiveness beyond what the sources support. The [development approach](working-documents/nist-ai-rmf-documentation-development-approach.md) defines the steps and traceability fields. No NIST application matrix or project assessment template has been drafted yet.
 
 ## Evidence and status conventions
 
