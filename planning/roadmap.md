@@ -12,27 +12,21 @@ This roadmap sequences learning and repository work. It is separate from [MVP sc
 - Create the repository structure and define how it relates to the AI Services Portfolio and solution repositories.
 - Record primary sources, source types, scope limits, and source-review conventions.
 - Draft initial NIST and EU AI Act orientation pages, the EU evaluation matrix, and the screening record template.
-- Add working status, roadmap, documentation conventions, and a source-record template.
+- Add working status, roadmap, documentation standards, and a source-record template.
 
 **Checkpoint:** Initial documents and clear boundaries are available for review.
 
 ## Phase 1 — Validate the screening record and EU matrix
 
-**Status: In progress**
+**Status: Complete — source-mapped learning draft**
 
-Completed in this review:
+- Reviewed the consolidated EU AI Act text (27 July 2026 snapshot) and selected official Commission material on 23 November 2026.
+- Updated the matrix and screening template to capture Article 6 conditions, provider/deployer and value-chain roles, distinct Article 50 duties, staged dates, and the difference between legal duties and suggested evidence.
+- Cross-checked the cited transition dates against Articles 111 and 113; recorded the Article 50(2) transition under Article 111(4).
+- Added seven source records and linked them from the [source register](../sources/source-register.md).
+- Added open questions and a clear route for legal/factual issues that require qualified review.
 
-- Reviewed the consolidated EU AI Act text (27 July 2026 snapshot) and selected official Commission material.
-- Updated the matrix and screening template to capture Article 6 conditions, provider/deployer and value-chain roles, distinct Article 50 duties, transition dates, and the difference between legal duties and suggested evidence.
-- Added four completed source records, linked from the [source register](../sources/source-register.md).
-
-Remaining checks:
-
-1. Cross-check each provision citation and transition date in the matrix against the exact consolidated legal text.
-2. Add a short list of open interpretive questions and clarify which items need qualified legal review.
-3. Confirm source-record navigation and consistency between the matrix, template, source register, and status page.
-
-**Checkpoint:** A source-mapped draft with records for sources substantively reviewed or relied on, unresolved questions visible, and no claim of legal validation.
+**Checkpoint met:** Source-mapped working documents, source records, visible unresolved questions, and no claim of legal validation. Recheck the consolidated law and guidance before applying the material to a real deployment.
 
 ## Phase 2 — Review selected examples
 
