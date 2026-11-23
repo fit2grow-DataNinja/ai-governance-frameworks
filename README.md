@@ -20,6 +20,7 @@ This repository is the central source for reusable, source-grounded AI governanc
 - [Source-record template](templates/source-record.template.md)
 - [Source register and review workflow](sources/source-register.md)
 - [NIST AI Risk Management Framework](frameworks/nist-ai-rmf/README.md)
+- [NIST working-document development approach](working-documents/nist-ai-rmf-documentation-development-approach.md)
 - [EU AI Act](frameworks/eu-ai-act/README.md)
 - [EU AI Act project-evaluation matrix](working-documents/eu-ai-act-project-evaluation-matrix.md)
 - [Project-screening record template](working-documents/project-screening-record-template.md)
