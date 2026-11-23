@@ -33,3 +33,7 @@ Documents distinguish official sources or requirements, repository interpretatio
 This is a learning and portfolio resource, not legal advice, an audit, certification, or a determination that a system complies with any law or standard. Frameworks, regulations, guidance, and applicability can change. Verify current primary sources and seek qualified advice when a real deployment requires a legal determination.
 
 Initial materials were prepared on 19 November 2026. See [project status](PROJECT-STATUS.md), each framework page, and the source register for source dates and review notes.
+
+## Relationship to AI readiness and enablement
+
+This repository is the central home for reusable, source-grounded AI governance framework knowledge and governance methods. It is distinct from [AI Organizational Readiness](https://github.com/fit2grow-DataNinja/ai-organizational-readiness), which focuses on organizational capabilities, and [AI Enablement Method](https://github.com/fit2grow-DataNinja/ai-enablement-method), which will explain how governance, readiness, and use-case requirements are assessed together. Project-specific applications and evidence remain with the relevant AI solution repositories; the [AI Services Portfolio](https://github.com/fit2grow-DataNinja/ai-services-portfolio) provides showcase and navigation.
