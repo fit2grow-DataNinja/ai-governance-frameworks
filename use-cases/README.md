@@ -2,6 +2,6 @@
 
 This directory is reserved for future governance-focused use-cases. Detailed project-specific assessments and evidence remain in the corresponding solution repositories.
 
-The next planned work is to develop the NIST application matrix and project assessment record through a source-grounded review of public company documents. Once those drafts are reviewable, a bounded scenario can be assessed and a generalized learning note may be added here.
+The next planned work is to derive the NIST application matrix and project assessment record directly from the NIST Core, Profiles, and Playbook. A bounded review of actual company working materials will follow, mapping documented evidence back to NIST points. A scenario assessment can then use the reviewed drafts.
 
 No applied governance use-case has been completed yet.
