@@ -17,7 +17,7 @@
 
 - Claim or topic being investigated: How a public-sector organization can use the AI RMF to review an existing AI governance program and identify capability gaps.
 - Exact provision, framework section, or example: City of San José’s self-assessment against the AI RMF’s four functions and 72 subcomponents
-- Why it is relevant to this repository or project: It illustrates organizational governance and readiness work around a portfolio of AI systems, including procured systems.
+- Why it is relevant to this repository or project: The NIST case PDF reports organizational governance and readiness work around a portfolio of AI systems, including procured systems. For this project, the report is context only: it does not include the underlying assessment worksheet or evidence. The PDF mentions a separate City AI Review Framework, which has not been examined in this record.
 
 ## What the source says
 
@@ -34,7 +34,7 @@ The case identifies further needs in formal policy, staff education, mechanisms 
 
 ## Our analysis
 
-- Possible relevance to a project or reusable document: Useful as an example of using a framework to review organizational arrangements and surface gaps, including where the organization primarily deploys procured systems.
+- Possible relevance to a project or reusable document: The reviewed case PDF is not a reusable assessment method. Do not derive template fields from its generic summary. If the separately mentioned City AI Review Framework is later selected, review it as a distinct source and decide independently whether it contains reusable working material.
 - Adaptations required and rationale: For a bounded use-case, scale the questions to the system and affected people; do not copy the City’s risk labels, scoring, or governance structure as a universal model.
 - Open questions: What changes were implemented after the assessment, and how were they evaluated? This PDF does not answer those questions.
 - Confidence: High that the record accurately summarizes the published case; low for claims about effectiveness beyond what the case reports.
@@ -42,6 +42,6 @@ The case identifies further needs in formal policy, staff education, mechanisms 
 ## Follow-up
 
 - Related repository document(s): [NIST AI RMF orientation](../../frameworks/nist-ai-rmf/README.md); [Phase 2 example review](../../working-documents/phase-2-example-review.md)
-- Decision: No change to the NIST orientation or EU matrix; retain as an illustrative source for future readiness and method work.
+- Decision: No change to the NIST orientation or EU matrix. Retain this record as a reviewed narrative source and document its limits; do not use the case summary as a template source.
 - Recheck trigger: The City publishes a status update or NIST revises/removes the case.
 - Next review date: On the next selected-example review.
