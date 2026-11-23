@@ -1,8 +1,8 @@
 # Project status — AI Governance Frameworks
 
-**Last updated:** 2026-11-19  
-**Stage:** Repository MVP foundation established; source validation and applied learning are next.  
-**Status:** Active learning and documentation project. Initial documents are working drafts, not validated compliance tools.
+**Last updated:** 2026-11-23  
+**Stage:** Repository foundation established; Phase 1 source validation in progress.  
+**Status:** Active learning and documentation project. Working documents are issue-spotting drafts, not validated compliance tools.
 
 ## Purpose
 
@@ -14,23 +14,24 @@ Build a source-grounded AI governance knowledge base and portfolio showing how f
 - Source register and source-review workflow established.
 - Initial NIST AI RMF and EU AI Act orientation pages added.
 - EU AI Act project-evaluation matrix and project-screening record template drafted.
-- NIST and EU example collections identified as learning sources; selected examples have not yet been reviewed in depth.
 - Governance-specific status, roadmap, documentation standards, and source-record template added.
 
 ## Current review status
 
-- The screening record template is an initial synthesis, not an official form.
-- The EU AI Act matrix is a working interpretation requiring source-level validation.
-- Framework pages summarize selected material and are not legal advice.
-- Project-specific application, controls, and evidence belong in the relevant solution repository.
+- Reviewed the consolidated EU AI Act text snapshot dated 27 July 2026 and selected official Commission guidance on 23 November 2026.
+- Revised the EU matrix and screening record for Article 6 classification details, actor/value-chain roles, Article 50 distinctions, applicable dates, and evidence labeling.
+- Source records for the materials used in this review are still to be added; Phase 1 is therefore **in progress**, not complete.
+- The classification guidelines reviewed are draft guidance, and the Article 27 FRIA template is draft consultation material; neither is represented as adopted binding law.
+- The matrix and template remain repository-authored learning aids, not legal advice or proof of compliance.
+- Project-specific application, controls, decisions, and evidence belong in the relevant solution repository.
 - No governance use-case has been completed yet; the `use-cases/` directory remains reserved.
 
 ## Next focus
 
-Follow [the learning and work roadmap](planning/roadmap.md): review the screening template and matrix against primary sources, capture provenance using the source-record template, revise unclear or unsupported prompts, and only then select a bounded scenario for application.
+Complete Phase 1 by adding source records for material reviewed, checking provision-specific citations and transition dates against the consolidated Regulation, and recording open questions. See [the learning and work roadmap](planning/roadmap.md).
 
 ## Evidence and status conventions
 
-Distinguish source-backed requirements, official guidance, voluntary framework suggestions, published examples, repository interpretation, and project evidence. Mark project controls as **implemented**, **planned**, **not addressed**, or **not applicable**, with evidence for implemented claims.
+Distinguish binding legal text, official guidance, voluntary framework suggestions, published examples, repository interpretation, and project evidence. Mark project controls as **implemented**, **planned**, **not addressed**, or **not applicable**, with evidence for implemented claims.
 
 This status page summarizes repository-level progress. It does not assert that any system complies with the EU AI Act, NIST AI RMF, or other law or framework.
