@@ -22,7 +22,7 @@ This **non-exhaustive** checklist expands the final row of the main matrix. Chec
 
 | Separate obligation screen | What to check | Main actor(s) to identify |
 |---|---|---|
-| **AI literacy — Article 4** | Whether providers and deployers have taken measures, to their best extent, to ensure sufficient AI literacy among relevant staff and other people dealing with AI on their behalf, considering their knowledge, experience, training, context, and affected groups. | Provider and deployer |
+| **AI literacy — Article 4** | Whether providers and deployers take measures to support the development of AI literacy among their staff and other persons dealing with the operation and use of AI systems on their behalf. Consider those people’s technical knowledge, experience, education and training; the context in which the systems are used; and the people or groups on whom they are used. Article 4(1) does not require guaranteeing any specific AI-literacy level for an individual. | Provider and deployer |
 | **General-purpose AI models — Chapter V** | Whether a GPAI model is involved and which obligations apply to its provider; separately check the additional duties for models with systemic risk and any downstream-provider obligations. | GPAI model provider; downstream AI-system provider where relevant |
 | **Registration and database duties** | Whether the system or actor must be registered, what information must be submitted, and when. Check the relevant classification and role; registration duties are not one universal requirement. | Provider; certain public-authority deployers; other actors where a provision specifies |
 | **Fundamental rights impact assessment — Article 27** | Whether the deployer and high-risk use fall within Article 27’s specified scope, and whether the assessment and notification duties are triggered. | Specified deployer |
@@ -49,6 +49,7 @@ These dates are not a substitute for checking the current consolidated Regulatio
 - [Annex IV](https://ai-act-service-desk.ec.europa.eu/en/ai-act/annex-4): technical-documentation elements for applicable high-risk systems. See [SRC-007](../sources/records/SRC-007-annex-iv.md).
 - [Article 27 draft FRIA template announcement](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-draft-template-fundamental-rights-impact-assessment-under-ai-act): draft questionnaire/template announced 16 November 2026; consultation open until 15 January 2027. It is not an adopted official template as of this review date. Article 27 applies only to specified deployers. See [SRC-004](../sources/records/SRC-004-article-27-draft-fria-template.md).
 - [Article 50 transparency guidance](https://ai-act-service-desk.ec.europa.eu/en/ai-act/resource/guidelines-transparency-ai-generated-content): Commission guidance published 20 July 2026; interpretive support, not binding legislation. See [SRC-003](../sources/records/SRC-003-article-50-transparency-guidance.md).
+- [AI Act Article 4](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-4): current Article 4 text in the consolidated snapshot, with an explanatory summary labelled non-binding. See [SRC-008](../sources/records/SRC-008-ai-act-article-4-ai-literacy.md).
 
 ## Versioning and change record
 
@@ -59,6 +60,7 @@ Before labelling this matrix **v1.0**, establish its release date, version, and 
 | Date | Version/status | Reason and affected content | Basis |
 |---|---|---|---|
 | 23 November 2026 | Working draft — pre-v1.0 | Source-mapped review; added the non-binding guidance column and supplementary obligations checklist; clarified framework-level open questions. | Phase 1 source records linked in the [source register](../sources/source-register.md). |
+| 23 November 2026 | Working draft — pre-v1.0 | Replaced superseded “sufficient AI literacy” phrasing with the amended Article 4 duty to take measures supporting development of literacy; added the express no-individual-level guarantee clarification. | [SRC-008 — Article 4](../sources/records/SRC-008-ai-act-article-4-ai-literacy.md), consolidated text dated 27 July 2026. |
 
 ## Framework-level open questions
 
