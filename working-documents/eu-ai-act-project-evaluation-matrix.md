@@ -49,17 +49,16 @@ These dates are not a substitute for checking the current consolidated Regulatio
 - [Article 27 draft FRIA template announcement](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-draft-template-fundamental-rights-impact-assessment-under-ai-act): draft questionnaire/template announced 16 November 2026; consultation open until 15 January 2027. It is not an adopted official template as of this review date. Article 27 applies only to specified deployers. See [SRC-004](../sources/records/SRC-004-article-27-draft-fria-template.md).
 - [Article 50 transparency guidance](https://ai-act-service-desk.ec.europa.eu/en/ai-act/resource/guidelines-transparency-ai-generated-content): Commission guidance published 20 July 2026; interpretive support, not binding legislation. See [SRC-003](../sources/records/SRC-003-article-50-transparency-guidance.md).
 
-## Open questions for later review
+## Framework-level open questions
 
-These issues depend on facts, further interpretation, or future source updates. They are not resolved by this general-purpose matrix.
+This section tracks questions about the reusable matrix and its source coverage. It is not a second project-evaluation checklist. For a specific system, record facts, role analysis, applicable provisions, conclusions, evidence, and follow-up in the [project-screening record template](project-screening-record-template.md).
 
-- How should a particular system’s intended purpose, significant influence on decision-making, and Article 6(3) conditions be evidenced?
-- Which organization performs each statutory role in a specific deployment, especially where a system is adapted, rebranded, or substantially modified?
-- Which Article 27 trigger applies to the deployer and use context, and what final FRIA template or guidance will the Commission publish?
-- How do provision-specific transitional rules apply to an existing system, significant changes, or a concrete launch date?
-- Which other AI Act provisions and non-AI laws apply independently of the Article 5/6/50 screens?
+- **Guidance updates:** When the Commission publishes final high-risk classification guidelines or adopts a final Article 27 FRIA template, what changes are needed in the matrix and source records?
+- **Coverage of the supplementary checklist:** As the repository reviews additional primary sources, are the listed separate-obligation screens sufficient for a clear overview, or should another distinct screen be added?
+- **Boundary for other laws:** How much reusable detail should this matrix provide for data-protection, employment, consumer, product-safety, accessibility, cybersecurity, and sector-specific law before directing readers to the relevant specialist framework or authority?
+- **Source maintenance:** What review triggers and cadence will keep the legal snapshot, guidance status, and linked source records current?
 
-A real assessment should route unresolved legal classification and applicability questions to qualified counsel or the relevant competent authority as appropriate.
+These are repository-maintenance and scope questions. They do not prevent the matrix from guiding a preliminary project assessment; project-specific facts and unresolved applicability questions belong in that project’s screening record and may require qualified legal review.
 
 ## Suggested screening sequence
 
