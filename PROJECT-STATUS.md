@@ -25,7 +25,8 @@ Build a source-grounded AI governance knowledge base and portfolio showing how f
 - Phase 1 is complete as a **source-mapped learning draft**. Open legal/factual questions are listed in the matrix; this work does not validate compliance or settle how the Act applies to a specific system.
 - The classification guidelines reviewed are draft guidance, and the Article 27 FRIA template is draft consultation material; neither is represented as adopted binding law.
 - Added five Phase 2 source records: Article 4 and the City of San José, Workday, VERBUND, and OpenSky examples.
-- Completed the [Phase 2 example review](working-documents/phase-2-example-review.md). It records cross-case observations and found no reason to change the framework orientation, matrix, or screening template now.
+- Completed the [Phase 2 example review](working-documents/phase-2-example-review.md). It records cross-case observations and one targeted correction to the Article 4 checklist in the matrix.
+- The Article 4 checklist now follows the 27 July 2026 consolidated wording: measures support development of literacy, context and affected groups matter, and no individual literacy level must be guaranteed. The change is recorded in the matrix change table and [SRC-008](sources/records/SRC-008-ai-act-article-4-ai-literacy.md).
 - Phase 2 examples are reported learning inputs. NIST does not validate or endorse its individual use cases; the Commission literacy collection says copying a practice does not automatically create a presumption of Article 4 compliance.
 - The matrix and template remain repository-authored learning aids, not legal advice or proof of compliance.
 - Project-specific application, controls, decisions, and evidence belong in the relevant solution repository.
