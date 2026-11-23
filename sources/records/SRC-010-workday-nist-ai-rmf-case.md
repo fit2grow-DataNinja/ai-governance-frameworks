@@ -17,7 +17,7 @@
 
 - Claim or topic being investigated: How an AI provider reports mapping its existing governance arrangements to the NIST AI RMF and embedding it in product and third-party risk processes.
 - Exact provision, framework section, or example: Workday’s reported mapping of its common control framework and related product/third-party risk work
-- Why it is relevant to this repository or project: It illustrates how a framework may connect existing controls, product evaluation, cross-functional roles, and third-party assessment.
+- Why it is relevant to this repository or project: The Workday case reports links between its framework mapping, product evaluation, roles, and third-party assessment, but the underlying materials are not included in the case document.
 
 ## What the source says
 
@@ -34,7 +34,7 @@ Workday describes itself as an AI provider/developer and notes that when it uses
 
 ## Our analysis
 
-- Possible relevance to a project or reusable document: Shows one possible link between framework outcomes and an organization’s own controls, product evaluation, supplier review, and role assignments.
+- Possible relevance to a project or reusable document: The case summary does not provide the control mapping, risk-evaluation artifact, questionnaire, procedures, or evidence needed to reproduce the reported approach. Do not derive template fields from the summary.
 - Adaptations required and rationale: Start from the actual use case, roles, risks, and evidence. A portfolio project can borrow the mapping discipline but should not claim Workday’s governance structures or scale.
 - Open questions: What evidence demonstrates control operation or outcomes, and how are findings used to change controls? The case does not provide enough detail to answer.
 - Confidence: High that this record reflects the published account; limited confidence in any effectiveness claim because the source does not independently validate outcomes.
@@ -42,6 +42,6 @@ Workday describes itself as an AI provider/developer and notes that when it uses
 ## Follow-up
 
 - Related repository document(s): [NIST AI RMF orientation](../../frameworks/nist-ai-rmf/README.md); [Phase 2 example review](../../working-documents/phase-2-example-review.md)
-- Decision: No change to the NIST orientation or EU matrix; retain as an illustrative source for future method and supplier-risk work.
+- Decision: No change to the NIST orientation or EU matrix. Retain this record as a reviewed narrative source and document its limits; do not use the case summary as a template source.
 - Recheck trigger: Workday or NIST publishes a substantive update to this case.
 - Next review date: On the next selected-example review.
