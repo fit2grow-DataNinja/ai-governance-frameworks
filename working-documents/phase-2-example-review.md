@@ -37,7 +37,8 @@ The examples report self-assessments, reach, survey feedback, participation, and
 ## Decisions for repository materials
 
 - **NIST orientation:** No change. It already describes the four functions, iterative use, and the non-endorsement limit for use cases.
-- **EU AI Act matrix and screening template:** No change. The matrix already contains a distinct Article 4 literacy screen. These examples do not add legal duties and must not be used to expand or replace the legal text.
+- **EU AI Act matrix:** Made one targeted correction to the Article 4 checklist during source review: replaced the older “sufficient AI literacy” phrasing with the amended Article 4 duty to take measures supporting development of literacy and added the express statement that providers/deployers need not guarantee an individual literacy level. No new obligation screen or broader matrix restructuring was needed.
+- **Project-screening template:** No structural change. Article 4 remains a separate screen for project-specific application.
 - **Source register:** Add individual records for each example substantively reviewed, plus an Article 4 record.
 - **AI Enablement Method / AI Organizational Readiness:** These cases may be useful as learning inputs for future work on role-specific literacy, cross-functional ownership, feedback, and evidence. Any transfer should be documented in those repositories and distinguished from legal requirements.
 
