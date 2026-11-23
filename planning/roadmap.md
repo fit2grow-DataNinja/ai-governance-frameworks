@@ -43,18 +43,36 @@ This roadmap sequences learning and repository work. It is separate from [MVP sc
 
 **Checkpoint met:** Four example records and an Article 4 record are linked in the source register; the [Phase 2 review note](../working-documents/phase-2-example-review.md) captures the cross-case findings and decisions. The matrix received a targeted Article 4 wording correction; no new legal screen or broader restructuring was warranted. The examples remain reported learning inputs, not validated evidence or compliance determinations.
 
-## Phase 3 — Apply the reviewed method to a bounded scenario
+## Phase 3 — Develop traceable NIST AI RMF working documents
+
+**Status: Planned — next focus**
+
+The detailed workflow is in the [NIST documentation-development approach](../working-documents/nist-ai-rmf-documentation-development-approach.md).
+
+1. Confirm the company-document research scope, inclusion criteria, and purposeful sample.
+2. Collect public AI governance documents from the selected organizations and register source metadata.
+3. Classify each document by stated intent and substantive content.
+4. Map supported passages or practices to NIST Core functions, categories, and subcategories; use Playbook suggestions only as voluntary supporting material.
+5. Compare recurring document intents, variations, and evidence limits without treating frequency as a requirement or proof of effectiveness.
+6. Derive a NIST application matrix and project assessment record. For each proposed field, record its NIST anchor, external basis, rationale, evidence use, source type, limits, and change trigger.
+7. Review the drafts for traceability, source status, versioning, and clarity that repository-created fields are not NIST-prescribed.
+8. Agree a practical maintenance cadence and record how revisions to NIST sources or new applied evidence trigger changes.
+
+**Checkpoint:** A reviewable document-intent taxonomy and two draft NIST working documents with traceable rationales and source links. These are repository-created learning aids, not NIST-issued tools or compliance checklists.
+
+## Phase 4 — Apply the NIST materials to a bounded scenario
 
 **Status: Planned**
 
-- Choose a bounded portfolio scenario after Phases 1–2.
-- Apply the source-mapped screening method and distinguish assumptions from project evidence.
-- Keep any live project-specific assessment in that solution’s repository; this repository may host a generalized or comparative learning use-case.
-- Document gaps, controls, evaluation, human review, data/privacy/security considerations, and status only to the extent supported by evidence.
+- Select a bounded portfolio scenario after the NIST drafts are reviewable.
+- Apply the actual draft versions and distinguish documented facts from assumptions.
+- Keep project-specific assessment, evidence, decisions, controls, and status in the relevant solution repository; this repository may host a generalized learning note.
+- Record gaps, actions, owners, evaluation, human review, data/privacy/security considerations, and limitations only to the extent supported by evidence.
+- Identify any change proposals for the reusable NIST documents, with rationale and evidence.
 
-**Checkpoint:** A reviewable governance use-case that demonstrates method and limitations without claiming legal certification.
+**Checkpoint:** A reviewable governance use-case that demonstrates the NIST application approach and its limits without claiming certification or legal validation.
 
-## Phase 4 — Expand based on demonstrated need
+## Phase 5 — Expand based on demonstrated need
 
 **Status: Later**
 
