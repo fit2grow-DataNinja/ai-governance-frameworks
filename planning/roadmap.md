@@ -22,16 +22,15 @@ This roadmap sequences learning and repository work. It is separate from [MVP sc
 
 Completed in this review:
 
-- Reviewed the current consolidated EU AI Act text (27 July 2026 snapshot) and the relevant Articles 5, 6, 16, 25–27, 49, 50, 111, and 113.
-- Reviewed official Commission material on high-risk classification, Article 50 transparency, and the draft Article 27 FRIA template.
+- Reviewed the consolidated EU AI Act text (27 July 2026 snapshot) and selected official Commission material.
 - Updated the matrix and screening template to capture Article 6 conditions, provider/deployer and value-chain roles, distinct Article 50 duties, transition dates, and the difference between legal duties and suggested evidence.
+- Added four completed source records, linked from the [source register](../sources/source-register.md).
 
-Still required to meet the checkpoint:
+Remaining checks:
 
-1. Add completed source records for each source substantively used in this review.
-2. Verify each provision citation and date against the exact consolidated legal text and any provision-specific transition.
-3. Record open interpretive questions and make the source mapping easy to navigate from the working documents.
-4. Update the status page after the source records are committed.
+1. Cross-check each provision citation and transition date in the matrix against the exact consolidated legal text.
+2. Add a short list of open interpretive questions and clarify which items need qualified legal review.
+3. Confirm source-record navigation and consistency between the matrix, template, source register, and status page.
 
 **Checkpoint:** A source-mapped draft with records for sources substantively reviewed or relied on, unresolved questions visible, and no claim of legal validation.
 
