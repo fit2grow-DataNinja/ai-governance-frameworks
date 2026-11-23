@@ -32,15 +32,15 @@ This roadmap sequences learning and repository work. It is separate from [MVP sc
 
 ## Phase 2 — Review selected examples
 
-**Status: Planned**
+**Status: Complete — bounded source review**
 
-- Review a small number of NIST AI RMF use-cases as reported applications.
-- Review a small number of European Commission AI literacy practices for Article 4 learning; do not treat these as general AI Act project-evaluation cases.
-- Create a source record for each selected example reviewed in depth or used to inform repository work.
-- Record context, source claim, actions/evidence described, what the example does not establish, and our interpretation.
-- Decide whether the material improves framework notes, reusable methods, or the screening template.
+- Reviewed two NIST AI RMF use cases as reported applications: City of San José and Workday.
+- Reviewed two European Commission AI literacy practices for Article 4 learning: VERBUND and OpenSky Data Systems; these are not treated as general AI Act project-evaluation cases.
+- Added a source record for each selected example and for the Article 4 legal anchor.
+- Recorded context, source claims, described actions/evidence, limits, and repository interpretation.
+- Decided whether the examples change framework notes, reusable methods, or the screening template.
 
-**Checkpoint:** Short evidence notes grounded in sources the project owner has reviewed, with a source record for each one substantively used.
+**Checkpoint met:** Four example records and an Article 4 record are linked in the source register; the [Phase 2 review note](../working-documents/phase-2-example-review.md) captures the cross-case findings and decisions. No matrix/framework change was warranted at this stage. The examples remain reported learning inputs, not validated evidence or compliance determinations.
 
 ## Phase 3 — Apply the reviewed method to a bounded scenario
 
