@@ -21,7 +21,7 @@
 
 ## What the source says
 
-The Regulation sets prohibited practices, classification routes for high-risk systems, role-specific obligations, transparency duties, registration rules, and provision-specific application/transition dates. Article 6 includes specific rules for product/safety-component cases and an exception for certain Annex III systems subject to stated conditions. Profiling of natural persons remains high-risk under that exception, and providers relying on the exception have documentation and registration duties. Articles 25–27 address value-chain roles and specified deployer obligations. Article 50 assigns different duties to providers and deployers.
+The Regulation sets prohibited practices, classification routes for high-risk systems, role-specific obligations, transparency duties, registration rules, and provision-specific application/transition dates. Article 6 includes specific rules for product/safety-component cases and an exception for certain Annex III systems subject to stated conditions. Profiling of natural persons remains high-risk under that exception, and providers relying on the exception have documentation and registration duties. Articles 25–27 address value-chain roles and specified deployer obligations. Article 50 assigns different duties to providers and deployers. Article 111(4) provides the specific transition for certain systems placed on the market before 2 August 2026 to comply with Article 50(2) by 2 December 2026. Article 113 sets the staged application dates, including 2 December 2026 for specified amended Article 5 provisions and 2 December 2027 / 2 August 2028 for Annex III / Annex I high-risk requirements, respectively.
 
 ## Evidence and limits
 
@@ -34,7 +34,7 @@ The Regulation sets prohibited practices, classification routes for high-risk sy
 
 - Possible relevance: Keep screening questions route-specific and actor-specific; record exact legal version and applicable date.
 - Adaptations required: The matrix and screening template are repository-authored learning aids; evidence examples must not be mistaken for universal legal documentation requirements.
-- Open questions: Confirm all provision references and transitions against the current text when applying to a specific system; check for later amendments.
+- Open questions: Case-specific classification and applicability require system facts and qualified review; check for later amendments before use.
 - Confidence: High for the cited text-level distinctions; case-specific application is outside scope.
 
 ## Follow-up
