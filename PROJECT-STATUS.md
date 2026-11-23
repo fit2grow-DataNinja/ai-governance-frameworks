@@ -27,14 +27,14 @@ Build a source-grounded AI governance knowledge base and portfolio showing how f
 - Added five Phase 2 source records: Article 4 and the City of San José, Workday, VERBUND, and OpenSky examples.
 - Completed the [Phase 2 example review](working-documents/phase-2-example-review.md). It records cross-case observations and one targeted correction to the Article 4 checklist in the matrix.
 - The Article 4 checklist now follows the 27 July 2026 consolidated wording: measures support development of literacy, context and affected groups matter, and no individual literacy level must be guaranteed. The change is recorded in the matrix change table and [SRC-008](sources/records/SRC-008-ai-act-article-4-ai-literacy.md).
-- Phase 2 examples are reported learning inputs. NIST does not validate or endorse its individual use cases; the Commission literacy collection says copying a practice does not automatically create a presumption of Article 4 compliance.
+- Phase 2 review found that the selected NIST case narratives and Commission literacy practice pages do not provide working materials we can reuse. Keep them as documented examples and source-limit records; do not derive template fields from their generic summaries. NIST also states that it does not validate or endorse individual use cases, and the Commission says copying a literacy practice does not automatically create a presumption of Article 4 compliance.
 - The matrix and template remain repository-authored learning aids, not legal advice or proof of compliance.
 - Project-specific application, controls, decisions, and evidence belong in the relevant solution repository.
 - No governance use-case has been completed yet; the `use-cases/` directory remains reserved.
 
 ## Next focus
 
-Proceed to Phase 3 in [the learning and work roadmap](planning/roadmap.md): develop a traceable NIST AI RMF application matrix and project assessment record, informed by a bounded review of public company documents. The [development approach](working-documents/nist-ai-rmf-documentation-development-approach.md) defines the steps and traceability fields. No NIST application matrix or project assessment template has been drafted yet.
+Proceed to Phase 3 in [the learning and work roadmap](planning/roadmap.md): develop a traceable NIST AI RMF application matrix and project assessment record, informed by a bounded review of actual public company working materials. Generic case narratives are excluded as sources for template fields. The [development approach](working-documents/nist-ai-rmf-documentation-development-approach.md) defines the steps and traceability fields. No NIST application matrix or project assessment template has been drafted yet.
 
 ## Evidence and status conventions
 
