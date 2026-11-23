@@ -38,9 +38,10 @@ This roadmap sequences learning and repository work. It is separate from [MVP sc
 - Reviewed two European Commission AI literacy practices for Article 4 learning: VERBUND and OpenSky Data Systems; these are not treated as general AI Act project-evaluation cases.
 - Added a source record for each selected example and for the Article 4 legal anchor.
 - Recorded context, source claims, described actions/evidence, limits, and repository interpretation.
+- Corrected the Article 4 checklist in the matrix to reflect the amended text in the 27 July 2026 consolidated Regulation, with the reason and source recorded in its change table.
 - Decided whether the examples change framework notes, reusable methods, or the screening template.
 
-**Checkpoint met:** Four example records and an Article 4 record are linked in the source register; the [Phase 2 review note](../working-documents/phase-2-example-review.md) captures the cross-case findings and decisions. No matrix/framework change was warranted at this stage. The examples remain reported learning inputs, not validated evidence or compliance determinations.
+**Checkpoint met:** Four example records and an Article 4 record are linked in the source register; the [Phase 2 review note](../working-documents/phase-2-example-review.md) captures the cross-case findings and decisions. The matrix received a targeted Article 4 wording correction; no new legal screen or broader restructuring was warranted. The examples remain reported learning inputs, not validated evidence or compliance determinations.
 
 ## Phase 3 — Apply the reviewed method to a bounded scenario
 
