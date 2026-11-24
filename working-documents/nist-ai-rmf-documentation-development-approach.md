@@ -1,6 +1,6 @@
 # Developing traceable NIST AI RMF working documents
 
-**Status:** Source baseline and Core outcome inventory completed; the NIST application matrix and project assessment record are not yet drafted.  
+**Status:** Source baseline and Core outcome inventory completed; first drafts of the NIST application matrix and project assessment record created for review.  
 **Reviewed:** 24 November 2026  
 **Framework baseline:** NIST AI RMF 1.0 (NIST AI 100-1), with the NIST AI Resource Center reporting that a revision is in progress.
 
@@ -20,7 +20,7 @@ The documents may use a layout familiar from the EU AI Act matrix and screening 
 - **NIST AI RMF Playbook:** a companion source for optional action suggestions tied to Core subcategories. These suggestions are voluntary, non-exhaustive, and not a required sequence.
 - **Company-published documents:** a source of observed document practices and stated intent. Use them after the NIST-based drafts exist to assess documentary alignment and refine practical evidence fields. They do not establish what NIST requires or prove that a company's processes operate effectively.
 
-See [SRC-013 — NIST AI RMF Core and Profiles](../sources/records/SRC-013-nist-ai-rmf-core-and-profiles.md), [SRC-014 — NIST AI RMF Playbook](../sources/records/SRC-014-nist-ai-rmf-playbook.md), and the [NIST AI RMF Core outcome inventory](nist-ai-rmf-core-outcome-inventory.md).
+See [SRC-013 — NIST AI RMF Core and Profiles](../sources/records/SRC-013-nist-ai-rmf-core-and-profiles.md), [SRC-014 — NIST AI RMF Playbook](../sources/records/SRC-014-nist-ai-rmf-playbook.md), the [NIST AI RMF Core outcome inventory](nist-ai-rmf-core-outcome-inventory.md), the [application matrix draft](nist-ai-rmf-application-matrix-draft.md), and the [project assessment record template](../templates/nist-ai-rmf-project-assessment-record.template.md).
 
 ## Working principles
 
@@ -41,7 +41,7 @@ See [SRC-013 — NIST AI RMF Core and Profiles](../sources/records/SRC-013-nist-
 |---|---|---|---|
 | **1. Fix the NIST source baseline** | **Completed 24 November 2026.** Confirmed AI RMF 1.0 (NIST AI 100-1) remains the published baseline; NIST says revision is in progress, and the Playbook will be updated afterward. | [NIST AI RMF Core outcome inventory](nist-ai-rmf-core-outcome-inventory.md) — source baseline section | Later mappings must identify the version and source checked; recheck before drafting is finalized. |
 | **2. Extract the NIST structure** | **Core structure completed 24 November 2026.** Indexed all 72 subcategories under the Core’s functions and categories; recorded Profiles principles for context-based tailoring and current/target gap comparison. **First-matrix coverage decision remains open** and will be made during drafting. | [NIST AI RMF Core outcome inventory](nist-ai-rmf-core-outcome-inventory.md) | Each selected point must be anchored to NIST; the inventory does not imply every outcome applies to every use case. |
-| **3. Draft the working documents from NIST** | Create the first NIST application matrix and project assessment record using the Core and Profile concepts. Use Playbook content only for clearly labeled, voluntary action prompts. For every field, record its NIST reference, rationale, source, limits, and maintenance trigger. | Draft NIST application matrix and project assessment record | The draft structure can be explained from NIST sources without relying on company documents. Repository-created fields are labeled as such. |
+| **3. Draft the working documents from NIST** | **First drafts created 24 November 2026.** The matrix retains all 72 AI RMF 1.0 subcategories as a reference catalog and requires project-specific selection and rationale; the assessment record captures context, status, evidence, gaps, actions, and decisions. Playbook suggestions are clearly voluntary. | [Application matrix draft](nist-ai-rmf-application-matrix-draft.md); [project assessment record template](../templates/nist-ai-rmf-project-assessment-record.template.md) | The structure is NIST-source-grounded; repository-created prompts, evidence fields, and statuses are identified as such. Source-fidelity and usability review remains pending. |
 | **4. Review source fidelity and usability** | Check that NIST outcomes are represented accurately, the tools support context-based tailoring, current/target comparison and gaps, and no field implies a NIST-mandated checklist or score. | Draft review log | Representative fields trace to exact NIST references and their intended use is clear. |
 | **5. Define the company-document review** | Set the research question, date range, geography, sectors, organization roles, meaning of “larger company,” inclusion/exclusion criteria, and a purposeful sample. Prioritize organizations publishing actual operational artifacts. Do not claim the sample represents all companies. | Scope note and company sample register | The scope and sampling limits are explicit and reproducible. |
 | **6. Collect actual public working materials** | Search official company sites and document libraries for operational policies/standards, procedures, assessment tools, lifecycle requirements, model/system documentation, testing materials, data-governance controls, human-oversight instructions, supplier questionnaires, incident/monitoring processes, transparency specifications, or literacy curricula. Generic narratives and principles statements are not working artifacts; assess a separately linked artifact on its own. | Document inventory with source links and metadata | Each included document has publisher, URL, title, date/version, access date, scope, status, and a reason it qualifies. |
@@ -78,7 +78,7 @@ See [SRC-013 — NIST AI RMF Core and Profiles](../sources/records/SRC-013-nist-
 
 - Which industries, geographies, and provider/deployer contexts should the initial company sample cover?
 - What minimum inclusion standard distinguishes a governance-relevant document from general AI marketing or product documentation?
-- Should the first application matrix cover all NIST 1.0 subcategories, or provide a selection-oriented guide with a complete reference crosswalk?
+- **Resolved for the first draft:** retain all 72 subcategories as a reference catalog and use project-specific selection with recorded rationale; this is not a requirement that every outcome apply. Revisit after usability review.
 - What review cadence is practical once the NIST documents reach v1.0?
 
 ## Use limitation
