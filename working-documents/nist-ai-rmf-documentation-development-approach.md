@@ -52,6 +52,19 @@ See [SRC-013 — NIST AI RMF Core and Profiles](../sources/records/SRC-013-nist-
 | **10. State conclusions and limitations** | Report what the collected documents show about published documentary alignment and available evidence. Record missing internal material, selection/publication bias, self-reported claims, and unverified operation or effectiveness. | Bounded findings note | Conclusions do not claim an organization’s implementation or effectiveness is validated unless the evidence supports that stronger claim. |
 | **11. Apply after review** | Once the working documents are reviewable, apply them to a bounded portfolio scenario. Keep project-specific assessment, evidence, decisions, and implementation status in the relevant solution repository; label retrospective assessments with date and source/framework versions. | Scenario assessment and linked repository evidence | The assessment uses the actual draft version and distinguishes documented facts from assumptions and planned controls. |
 
+## Project-level NIST Profile workflow
+
+The following sequence makes explicit how an assessment uses NIST Profiles. It is a repository-designed workflow based on NIST’s Profile concepts; NIST does not prescribe this sequence or a Profile template.
+
+1. **Define the project setting and goals.** Describe the system, intended use, actors and affected people, lifecycle stage, organizational goals, risk tolerance, and available resources.
+2. **Search for existing NIST profiles first.** Check current official NIST sources for published profiles relevant to the technology, sector, use case, or cross-sector activity. Record the search date and each candidate’s source, version, status, scope, and relevance. Distinguish published profiles from drafts or concept notes in development; label profiles from other organizations as external, not NIST profiles.
+3. **Decide whether and how to reuse them.** For each relevant candidate, document whether it will be reused, adapted, combined with another profile, used as partial input, or not used. Explain fit, limitations, and uncovered needs. Do not assume a profile is suitable simply because the technology or sector label matches.
+4. **Define the tailored outcome set.** Use the suitable profile or profiles as a starting point, then select and tailor Core functions, categories, and subcategories for the project. If no published NIST profile is suitable, or coverage is incomplete, create a project-specific use-case profile from the Core and explain the rationale. Apply the project’s Main focus / Sub-focus grouping as a portfolio overview aid.
+5. **Describe Current and Target Profiles.** For each selected outcome, document the current state based on available information and evidence, and the desired state based on project goals and priorities. Do not mistake the profile source’s suggested actions for automatically required target outcomes.
+6. **Compare profiles and plan.** Identify gaps between current and target states, note evidence limits and residual risks, and prioritize actions according to the project’s needs, risk-management process, and resources.
+
+The [project assessment record](../templates/nist-ai-rmf-project-assessment-record.template.md) captures the profile search, reuse decision, selected Core outcomes, current/target states, and resulting gaps. The [application matrix](nist-ai-rmf-application-matrix-draft.md) supplies the complete Core reference catalog and prompts.
+
 ## Traceability fields for each proposed template element
 
 | Traceability item | What to record |
