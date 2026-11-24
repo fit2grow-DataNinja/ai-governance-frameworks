@@ -79,6 +79,12 @@ The [project assessment record](../templates/nist-ai-rmf-project-assessment-reco
 | Mapping rationale | Why this field maps to the selected NIST outcome(s); allow multiple links |
 | Maintenance trigger | Source revision, material new evidence, or applied-use finding that prompts review |
 
+## Optional company AI-governance document analysis
+
+The repository also provides an [optional company AI-governance document analysis method](nist-company-ai-governance-document-analysis.md). It may help organize a company’s publicly documented AI principles, goals or objectives, internal requirements or practices, and supporting documentation where these relationships are visible. This is a repository-created complementary analysis, not a NIST-prescribed method or an extra NIST assessment step.
+
+Use it only when it adds traceability. Preserve the company’s own terminology, distinguish explicit links from reviewer inference, and do not force missing layers. It may help identify relevant sources or provide documented context for a project assessment. If a source is used in a NIST record, cite the original artifact in the evidence register and state its scope and limits; the companion analysis itself is an interpretive index, not primary evidence. The NIST Core, project context, and collaborative Target Profile process remain unchanged.
+
 ## Maintenance and change control
 
 - Check NIST’s current status before starting or revising a template. A revised AI RMF or material Profile/Core change triggers review of all mapped elements.
