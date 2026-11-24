@@ -38,6 +38,7 @@ Build a source-grounded AI governance knowledge base and portfolio showing how f
 - Added source records SRC-015–SRC-018 for the Microsoft standard and assessment template, Google Data Cards Playbook, and Google DeepMind model card; linked them from the [source register](sources/source-register.md).
 - Applied the NIST working drafts retrospectively to S02 Variant 1. The [assessment record](https://github.com/fit2grow-DataNinja/s02-crm-data-quality-auditor/blob/main/docs/nist-ai-rmf-retrospective-assessment.md) identifies NIST AI 600-1 as partial profile input and records all 72 Core dispositions. Targets remain portfolio-proposed because no company representatives participated.
 - Added [SRC-019 — NIST Generative AI Profile](sources/records/SRC-019-nist-generative-ai-profile.md) and linked it from the source register.
+- Added an [optional company AI-governance document analysis method](working-documents/nist-company-ai-governance-document-analysis.md) as a complementary resource. It is not a NIST method or required assessment step; it may help organize company-stated governance intent and identify original sources relevant to a project record.
 
 ## Next focus
 
