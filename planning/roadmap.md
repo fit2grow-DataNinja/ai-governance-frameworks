@@ -66,15 +66,15 @@ The detailed workflow is in the [NIST documentation-development approach](../wor
 
 ## Phase 4 — Apply the NIST materials to a bounded scenario
 
-**Status: Complete — first retrospective assessment draft; owner review pending**
+**Status: Bounded application package complete; overview and structured record accepted; detailed retrospective review pending**
 
 - Selected S02 Variant 1, a completed synthetic-data portfolio MVP with documented deterministic audit rules and a generative explanation component.
 - Applied the reviewed NIST AI RMF 1.0 matrix and assessment record; searched official NIST Profiles and used the Generative AI Profile only as partial input for the explanation component.
-- Recorded the project-specific assessment, evidence, limitations, and proposed actions in the [S02 solution repository](https://github.com/fit2grow-DataNinja/s02-crm-data-quality-auditor/blob/main/docs/nist-ai-rmf-retrospective-assessment.md).
+- Recorded the project-specific analysis and evidence in the [detailed retrospective assessment](https://github.com/fit2grow-DataNinja/s02-crm-data-quality-auditor/blob/main/docs/nist-ai-rmf-retrospective-assessment.md); created a [business-facing overview](https://github.com/fit2grow-DataNinja/s02-crm-data-quality-auditor/blob/main/docs/nist-ai-rmf-evaluation-overview-status.md) and [structured project assessment record](https://github.com/fit2grow-DataNinja/s02-crm-data-quality-auditor/blob/main/docs/nist-ai-rmf-project-assessment-record.md), both accepted by the portfolio owner on 24 November 2026.
 - Marked target states as proposed, not company-agreed, because this is a self-directed portfolio project with no company representatives.
 - Preserved existing MVP closure; the assessment does not authorize real-data or production use.
 
-**Checkpoint met for the bounded portfolio exercise:** A dated, reviewable governance assessment demonstrates the method and its limits. Owner review and any improvements remain open.
+**Checkpoint met for the bounded portfolio exercise:** A dated NIST application package documents the 72-outcome disposition, evidence limits, and proposed actions. The overview and structured record are accepted; review of the detailed retrospective and any method improvements remains open. This is not an assessment under the AI Enablement Method.
 
 ## Phase 5 — Expand based on demonstrated need
 
