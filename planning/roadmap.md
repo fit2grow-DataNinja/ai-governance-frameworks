@@ -64,15 +64,15 @@ The detailed workflow is in the [NIST documentation-development approach](../wor
 
 ## Phase 4 — Apply the NIST materials to a bounded scenario
 
-**Status: Planned**
+**Status: Complete — first retrospective assessment draft; owner review pending**
 
-- Select a bounded portfolio scenario after the NIST drafts are reviewable.
-- Apply the actual draft versions and distinguish documented facts from assumptions.
-- Keep project-specific assessment, evidence, decisions, controls, and status in the relevant solution repository; this repository may host a generalized learning note.
-- Record gaps, actions, owners, evaluation, human review, data/privacy/security considerations, and limitations only to the extent supported by evidence.
-- Identify any change proposals for the reusable NIST documents, with rationale and evidence.
+- Selected S02 Variant 1, a completed synthetic-data portfolio MVP with documented deterministic audit rules and a generative explanation component.
+- Applied the reviewed NIST AI RMF 1.0 matrix and assessment record; searched official NIST Profiles and used the Generative AI Profile only as partial input for the explanation component.
+- Recorded the project-specific assessment, evidence, limitations, and proposed actions in the [S02 solution repository](https://github.com/fit2grow-DataNinja/s02-crm-data-quality-auditor/blob/main/docs/nist-ai-rmf-retrospective-assessment.md).
+- Marked target states as proposed, not company-agreed, because this is a self-directed portfolio project with no company representatives.
+- Preserved existing MVP closure; the assessment does not authorize real-data or production use.
 
-**Checkpoint:** A reviewable governance use-case that demonstrates the NIST application approach and its limits without claiming certification or legal validation.
+**Checkpoint met for the bounded portfolio exercise:** A dated, reviewable governance assessment demonstrates the method and its limits. Owner review and any improvements remain open.
 
 ## Phase 5 — Expand based on demonstrated need
 
