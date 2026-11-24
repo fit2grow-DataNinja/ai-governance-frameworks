@@ -71,11 +71,13 @@ Describe the purpose and boundaries of this assessment. State which lifecycle st
 | Relevant affected parties and perspectives sought | |
 | Framework outcomes selected for detailed assessment | |
 | Current Profile — how risk is currently managed for selected outcomes; summarize findings and link to outcome rows/evidence | |
-| Target Profile — desired outcomes for selected outcomes, based on the project’s goals and priorities | |
+| Target Profile — desired outcomes for selected outcomes, developed with relevant company representatives using the Current Profile as context | |
+| Representatives consulted (names or roles), their relationship to the system, and key input | |
+| Target Profile decision owner(s), approval status, and date; note any disagreement or unresolved item | |
 | Outcomes considered but not selected and why | |
 | Outcomes deferred or unable to assess, and what would resolve the gap | |
 
-NIST defines use-case profiles as context-specific implementations of selected Core functions, categories, and subcategories, and Current/Target Profiles as descriptions of existing and desired states. Comparing them can reveal gaps. This record’s profile search workflow, fields, and status labels are repository-created; NIST does not prescribe this template.
+NIST defines use-case profiles as context-specific implementations of selected Core functions, categories, and subcategories, and Current/Target Profiles as descriptions of existing and desired states. Comparing them can reveal gaps. This record’s profile search workflow, fields, and status labels are repository-created; NIST does not prescribe this template. The collaborative target-setting steps below are also this repository’s proposed practice, not a NIST-mandated consultation or approval procedure.
 
 ## 4. Summary and decisions
 
@@ -104,7 +106,7 @@ The focus tier describes relative emphasis in this project assessment; it is not
 
 Copy one row for each selected outcome that is central to the assessment. Use the matrix prompt and record findings, evidence, limitations, gaps, and actions.
 
-| NIST reference | Why this is a main focus | Current Profile: documented state (facts vs assumptions) | Evidence ID(s), source/date/location | Evidence type and limits | Target Profile: desired state | Gap / uncertainty | Action, owner, target date | Decision/status |
+| NIST reference | Why this is a main focus | Current Profile: documented state (facts vs assumptions) | Evidence ID(s), source/date/location | Evidence type and limits | Target Profile: desired state, developed with relevant representatives | Target status (proposed / under discussion / agreed / approved / unresolved) | Gap / uncertainty | Action, owner, target date | Decision/status |
 |---|---|---|---|---|---|---|---|
 | e.g., MAP 1.1 | | | | | | | |
 
@@ -128,7 +130,7 @@ Record each remaining Core subcategory and why it was not selected, deferred, un
 
 **Coverage check:** Confirm that all 72 Core subcategories have exactly one disposition and that every selected outcome appears in either §5.1 or §5.2. Record totals: Main focus ___; Sub-focus ___; Not selected ___; Deferred ___; Unable to assess ___; Not applicable ___; **Total reviewed: 72**.
 
-For each selected outcome, describe the Current Profile state based on reviewed information and evidence, then describe the Target Profile state the organization wants or needs to reach. Record the resulting gap and any action. A target state is a project decision informed by the organization’s goals, priorities, risk tolerance, context, and resources; it is not automatically the full wording of a Core outcome or every suggestion in a related profile. Distinguish the outcome being considered from evidence that an activity exists. A lack of evidence should be recorded as an information gap, not silently treated as absence of risk or failure. Record whether evidence is a policy/commitment, defined process, completed activity record, operational observation, or independent assurance; this taxonomy is repository-created, not a NIST classification.
+For each selected outcome, document the Current Profile state based on reviewed information and evidence. Then develop the Target Profile state through discussion with relevant company representatives, using the Current Profile as the baseline and considering the organization’s goals, priorities, risk tolerance, context, and resources. Involve the people who understand the use case and those authorized or accountable for relevant business, risk, and system decisions, as appropriate. Record participant names or roles, their input, the target’s status (proposed, under discussion, agreed, approved, or unresolved), the decision owner, and any disagreement. Record the resulting gap and any action. The target is a project decision; it is not automatically the full wording of a Core outcome or every suggestion in a related profile. Do not present a proposed target as company-approved. Distinguish the outcome being considered from evidence that an activity exists. A lack of evidence should be recorded as an information gap, not silently treated as absence of risk or failure. Record whether evidence is a policy/commitment, defined process, completed activity record, operational observation, or independent assurance; this taxonomy is repository-created, not a NIST classification.
 
 ## 6. Voluntary Playbook suggestions (optional)
 
