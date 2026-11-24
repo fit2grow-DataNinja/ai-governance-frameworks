@@ -1,7 +1,7 @@
 # Learning and work roadmap
 
 **Status:** Working sequence  
-**Last reviewed:** 23 November 2026
+**Last reviewed:** 24 November 2026
 
 This roadmap sequences learning and repository work. It is separate from [MVP scope and boundaries](mvp-scope.md), which defines what the repository is for.
 
@@ -45,14 +45,14 @@ This roadmap sequences learning and repository work. It is separate from [MVP sc
 
 ## Phase 3 — Develop traceable NIST AI RMF working documents
 
-**Status: Planned — next focus**
+**Status: First drafts created — source-fidelity and usability review next**
 
 The detailed workflow is in the [NIST documentation-development approach](../working-documents/nist-ai-rmf-documentation-development-approach.md).
 
-1. Confirm the NIST Core, Profiles, and Playbook versions and source status.
-2. Extract the Core outcomes and Profile concepts; define the coverage and tailoring approach.
-3. Draft the NIST application matrix and project assessment record directly from those NIST sources, recording the rationale and external reference for each proposed field. Label Playbook suggestions as voluntary.
-4. Review the drafts for source fidelity and confirm they support contextual selection rather than mandatory checklist completion.
+1. **Complete (24 Nov 2026):** Confirmed NIST AI RMF 1.0 remains the published baseline, revision is in progress, and the Playbook update will follow.
+2. **Complete (24 Nov 2026):** Indexed all 72 Core subcategories and recorded the Profiles concepts for contextual tailoring and current/target comparison. The first draft uses a complete reference catalog with reasoned project-level selection.
+3. **Drafts created (24 Nov 2026):** [NIST application matrix](../working-documents/nist-ai-rmf-application-matrix-draft.md) and [project assessment record](../templates/nist-ai-rmf-project-assessment-record.template.md), derived from NIST sources; Playbook content is labeled voluntary.
+4. Review the drafts for source fidelity and usability; confirm they support contextual selection rather than mandatory checklist completion.
 5. Define a bounded, purposeful sample of larger organizations and inclusion criteria for actual public working materials.
 6. Collect and register those artifacts; generic case narratives and high-level statements do not count as working documents.
 7. Classify artifact intent and the evidence it provides, distinguishing policy/commitment, defined process, evidence of operation, and independent assurance.
@@ -60,7 +60,7 @@ The detailed workflow is in the [NIST documentation-development approach](../wor
 9. Use the scan to review the practical usefulness of the drafts and refine them only with a documented rationale.
 10. Report documentary alignment and available evidence without claiming implementation or effectiveness beyond what the evidence supports.
 
-**Checkpoint:** Two reviewable NIST working-document drafts derived from NIST sources, with a crosswalk to selected company working materials, traceable rationales, and explicit evidence limits. The drafts are repository-created learning aids, not NIST-issued tools or compliance checklists.
+**Checkpoint:** Two reviewed NIST working-document drafts derived from NIST sources, followed by a crosswalk to selected company working materials, traceable rationales, and explicit evidence limits. The drafts are repository-created learning aids, not NIST-issued tools or compliance checklists.
 
 ## Phase 4 — Apply the NIST materials to a bounded scenario
 
