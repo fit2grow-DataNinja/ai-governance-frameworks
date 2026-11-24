@@ -1,11 +1,11 @@
 # Source register
 
-**Last reviewed:** 23 November 2026  
+**Last reviewed:** 24 November 2026  
 This register prioritizes primary sources. The “Use” column describes how this repository uses each source; it does not imply endorsement or complete legal analysis.
 
 | Source | Type / status | Used for | Notes |
 |---|---|---|---|
-| [NIST AI RMF 1.0](https://www.nist.gov/itl/ai-risk-management-framework) | Official voluntary framework | Core outcomes and framework orientation | AI RMF 1.0 is being revised. See [SRC-013](records/SRC-013-nist-ai-rmf-core-and-profiles.md) for the Core and Profile basis used in the planned application documents.
+| [NIST AI RMF 1.0](https://www.nist.gov/itl/ai-risk-management-framework) | Official voluntary framework | Core outcomes and framework orientation | AI RMF 1.0 is being revised. See [SRC-013](records/SRC-013-nist-ai-rmf-core-and-profiles.md) and the [Core outcome inventory](../working-documents/nist-ai-rmf-core-outcome-inventory.md) for the source baseline and complete AI RMF 1.0 structure used in planned application documents.
 | [NIST AI RMF Profiles](https://airc.nist.gov/airmf-resources/airmf/6-sec-profile/) | Official excerpt from AI RMF 1.0 | Tailoring outcomes to a specific setting and comparing current/target profiles | NIST does not prescribe profile templates. See [SRC-013](records/SRC-013-nist-ai-rmf-core-and-profiles.md). |
 | [NIST AI RMF Playbook](https://airc.nist.gov/airmf-resources/playbook/) | Official companion resource; suggested actions are voluntary | Optional action suggestions aligned to Core subcategories | Not a checklist or prescribed sequence; see [SRC-014](records/SRC-014-nist-ai-rmf-playbook.md).
 | [NIST AI RMF Generative AI Profile, NIST AI 600-1](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence) | Official NIST profile | GenAI-specific risks and suggested actions | Companion to AI RMF 1.0; confirm latest NIST status when updating. |
