@@ -1,7 +1,7 @@
 # Project status — AI Governance Frameworks
 
 **Last updated:** 2026-11-24  
-**Stage:** Repository foundation established; Phases 1 and 2 complete; Phase 3 NIST source baseline, outcome inventory, and first working-document drafts complete; draft review next.  
+**Stage:** Repository foundation established; Phases 1 and 2 complete; Phase 3 NIST source baseline, outcome inventory, drafts, review, and initial company-document scan complete; bounded use-case application next.  
 **Status:** Active learning and documentation project. Working documents are issue-spotting drafts, not validated compliance tools.
 
 ## Purpose
@@ -32,11 +32,14 @@ Build a source-grounded AI governance knowledge base and portfolio showing how f
 - Project-specific application, controls, decisions, and evidence belong in the relevant solution repository.
 - No governance use-case has been completed yet; the `use-cases/` directory remains reserved.
 - Rechecked the NIST source baseline on 24 November 2026: AI RMF 1.0 remains the published baseline while revision is in progress; the Playbook update will follow the revised Framework.
-- Created a complete 72-subcategory [NIST AI RMF Core outcome inventory](working-documents/nist-ai-rmf-core-outcome-inventory.md), plus first drafts of the [application matrix](working-documents/nist-ai-rmf-application-matrix-draft.md) and [project assessment record](templates/nist-ai-rmf-project-assessment-record.template.md). The assessment record also groups selected outcomes into Main focus and Sub-focus points for overview while retaining a disposition and rationale for all 72; this repository-created hierarchy is not a NIST ranking or requirement.
+- Created a complete 72-subcategory [NIST AI RMF Core outcome inventory](working-documents/nist-ai-rmf-core-outcome-inventory.md), plus the [application matrix](working-documents/nist-ai-rmf-application-matrix-draft.md) and [project assessment record](templates/nist-ai-rmf-project-assessment-record.template.md). The assessment record groups selected outcomes into Main focus and Sub-focus points while retaining a disposition for all 72; this portfolio hierarchy is not a NIST ranking or requirement.
+- Completed the NIST [draft source-fidelity and usability review](working-documents/nist-ai-rmf-draft-review-log.md), including a small table-format correction.
+- Completed an initial bounded [company-document scan](working-documents/nist-company-document-scan.md) of Microsoft and Google DeepMind / Google. It inventories four artifacts, classifies their intent, and maps supported passages to NIST Core points. Findings are limited to this purposive sample and do not validate company implementation or effectiveness.
+- Added source records SRC-015–SRC-018 for the Microsoft standard and assessment template, Google Data Cards Playbook, and Google DeepMind model card; linked them from the [source register](sources/source-register.md).
 
 ## Next focus
 
-Review the NIST matrix and assessment-record drafts for source fidelity and usability, as set out in [Phase 3 of the roadmap](planning/roadmap.md). After that, define a bounded sample of actual public company working materials and map documented evidence back to NIST points. This assesses documentary alignment and available evidence; it does not establish implementation or effectiveness beyond what the sources support. The [development approach](working-documents/nist-ai-rmf-documentation-development-approach.md) defines the steps and traceability fields.
+Apply the reviewed NIST assessment record to a bounded portfolio scenario, then expand the company-document sample only if it will improve the analysis. Keep the distinction between documented alignment and available evidence versus validated operation or effectiveness. Phase 3 methods and limits are in the [development approach](working-documents/nist-ai-rmf-documentation-development-approach.md) and [company-document scan](working-documents/nist-company-document-scan.md).
 
 ## Evidence and status conventions
 
