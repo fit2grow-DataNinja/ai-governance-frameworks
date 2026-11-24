@@ -114,7 +114,7 @@ Copy one row for each selected outcome that supports or qualifies a main focus p
 
 | NIST reference | Linked main focus point(s) | Why this is a sub-focus | Current Profile: documented state (facts vs assumptions) | Evidence ID(s), source/date/location | Evidence type and limits | Target Profile: desired state | Gap / uncertainty | Action, owner, target date | Decision/status |
 |---|---|---|---|---|---|---|---|---|
-| e.g., GOVERN 2.1 | | | | | | | | |
+| e.g., GOVERN 2.1 | | | | | | | | | |
 
 ### 5.3 Other Core outcomes and disposition
 
