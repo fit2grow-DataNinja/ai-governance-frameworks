@@ -45,20 +45,20 @@ This roadmap sequences learning and repository work. It is separate from [MVP sc
 
 ## Phase 3 — Develop traceable NIST AI RMF working documents
 
-**Status: First drafts created — source-fidelity and usability review next**
+**Status: Initial two-company document scan complete — bounded findings recorded**
 
 The detailed workflow is in the [NIST documentation-development approach](../working-documents/nist-ai-rmf-documentation-development-approach.md).
 
 1. **Complete (24 Nov 2026):** Confirmed NIST AI RMF 1.0 remains the published baseline, revision is in progress, and the Playbook update will follow.
 2. **Complete (24 Nov 2026):** Indexed all 72 Core subcategories and recorded the Profiles concepts for contextual tailoring and current/target comparison. The first draft uses a complete reference catalog with reasoned project-level selection.
 3. **Drafts created (24 Nov 2026):** [NIST application matrix](../working-documents/nist-ai-rmf-application-matrix-draft.md) and [project assessment record](../templates/nist-ai-rmf-project-assessment-record.template.md), derived from NIST sources; Playbook content is labeled voluntary.
-4. Review the drafts for source fidelity and usability; confirm they support contextual selection rather than mandatory checklist completion.
-5. Define a bounded, purposeful sample of larger organizations and inclusion criteria for actual public working materials.
-6. Collect and register those artifacts; generic case narratives and high-level statements do not count as working documents.
-7. Classify artifact intent and the evidence it provides, distinguishing policy/commitment, defined process, evidence of operation, and independent assurance.
-8. Map supported company-document passages back to NIST points. Allow partial or no mapping; do not force fit.
-9. Use the scan to review the practical usefulness of the drafts and refine them only with a documented rationale.
-10. Report documentary alignment and available evidence without claiming implementation or effectiveness beyond what the evidence supports.
+4. **Complete (24 Nov 2026):** Reviewed source fidelity and usability; see the [draft review log](../working-documents/nist-ai-rmf-draft-review-log.md).
+5. **Complete for the initial bounded sample (24 Nov 2026):** Defined a purposive scan of Microsoft and Google DeepMind / Google, with scope and limits in the [scan note](../working-documents/nist-company-document-scan.md).
+6. **Complete for the initial sample (24 Nov 2026):** Collected four inspectable artifacts: Microsoft Responsible AI Standard v2 and Impact Assessment Template; Google Data Cards Playbook and Gemini Omni Flash Model Card.
+7. **Complete (24 Nov 2026):** Classified artifact intent and the evidence each can/cannot support; recorded source records SRC-015–SRC-018.
+8. **Initial crosswalk complete (24 Nov 2026):** Mapped supported passages to Core points; retained partial/conditional mappings and evidence limits.
+9. **Initial usability comparison complete (24 Nov 2026):** Existing template fields captured the evidence distinctions found; no change justified by this small sample. Broader sampling is needed before making wider recurrence claims.
+10. **Complete for this sample (24 Nov 2026):** Recorded bounded findings and limitations without claims of implementation or effectiveness.
 
 **Checkpoint:** Two reviewed NIST working-document drafts derived from NIST sources, followed by a crosswalk to selected company working materials, traceable rationales, and explicit evidence limits. The drafts are repository-created learning aids, not NIST-issued tools or compliance checklists.
 
