@@ -1,0 +1,144 @@
+# NIST AI RMF project assessment record — template
+
+**Template status:** Draft; repository-created learning aid, not NIST-issued  
+**Framework baseline:** NIST AI RMF 1.0, NIST AI 100-1 (2023)  
+**Source status checked:** 24 November 2026; NIST reports revision in progress  
+**Related matrix:** [NIST AI RMF application matrix — draft](../working-documents/nist-ai-rmf-application-matrix-draft.md)  
+**Related source index:** [NIST AI RMF Core outcome inventory](../working-documents/nist-ai-rmf-core-outcome-inventory.md)
+
+> Complete one record for a defined system or use case. This document supports a context-specific application of a voluntary risk-management framework. It does not establish legal compliance, certification, implementation effectiveness, or a NIST determination.
+
+## 1. Record control
+
+| Field | Entry |
+|---|---|
+| Assessment record ID | |
+| Project / system name | |
+| Record owner | |
+| Contributors / reviewers | |
+| Assessment date and status | |
+| Related solution repository or project record | |
+| Matrix version / commit / date | |
+| Framework source version | NIST AI RMF 1.0, NIST AI 100-1 (2023), unless revised and specified |
+| Source baseline rechecked on | |
+| Assessment type | ☐ Planned ☐ In progress ☐ Retrospective ☐ Update / reassessment |
+| Prior assessment / change reference | |
+
+## 2. System and use context
+
+| Prompt | Record |
+|---|---|
+| What system or proposed system is being assessed? | |
+| What business or public-interest need is it intended to address? | |
+| What are the intended purpose, users, and expected decisions/actions? | |
+| What uses are outside the intended scope or prohibited? | |
+| What AI methods/components are involved (e.g., classifier, recommender, generative model, external service)? | |
+| What are the system boundaries and relevant dependencies, including data, software, models, vendors, and integrations? | |
+| What lifecycle stage(s) are covered (idea, acquisition, design, development, testing, deployment, operation, change, retirement)? | |
+| What geography, sector, organizational setting, and deployment environment matter? | |
+| Who may be affected directly or indirectly? Include relevant groups and potential benefits and harms. | |
+| What human roles, oversight, review, override, or appeal are expected? | |
+| What important assumptions, limitations, uncertainties, or foreseeable changes apply? | |
+| What non-AI alternatives or existing processes are relevant? | |
+
+## 3. Assessment scope and tailoring rationale
+
+Describe the purpose and boundaries of this assessment. State which lifecycle stages and system components are included or excluded and why.
+
+| Tailoring factor | Assessment notes |
+|---|---|
+| User and organizational requirements | |
+| Context-specific laws, norms, and expectations identified (not a legal opinion) | |
+| Organizational risk tolerance or applicable decision basis | |
+| Available capabilities, expertise, time, and resources | |
+| System capability, knowledge limits, and intended scope | |
+| Relevant affected parties and perspectives sought | |
+| Framework outcomes selected for detailed assessment | |
+| Outcomes considered but not selected and why | |
+| Outcomes deferred or unable to assess, and what would resolve the gap | |
+
+NIST Profiles provide the conceptual basis for context-based tailoring and comparison of current and target states. This record’s fields and status labels are repository-created; NIST does not prescribe this template.
+
+## 4. Summary and decisions
+
+| Item | Record |
+|---|---|
+| Main findings about documented current state | |
+| Material risks, potential benefits, and uncertainties | |
+| Important evidence reviewed | |
+| Significant evidence gaps or limitations | |
+| Current decision / recommendation (e.g., proceed, proceed with actions, pause, redesign, stop, or further assessment) | |
+| Decision-maker and date | |
+| Conditions, dependencies, or review triggers | |
+| What this assessment does not establish | |
+
+## 5. Outcome-by-outcome assessment
+
+Copy one row per Core subcategory considered. Use the complete [application matrix](../working-documents/nist-ai-rmf-application-matrix-draft.md) and explain selections and omissions. These statuses are repository-proposed labels, not NIST terminology.
+
+| NIST reference | Selection status | Why relevant / why not selected | Context-specific finding (facts vs assumptions) | Evidence ID(s), source/date/location | Evidence type and limits | Gap / uncertainty | Action, owner, target date | Decision/status |
+|---|---|---|---|---|---|---|---|---|
+| e.g., MAP 1.1 | | | | | | | | |
+
+**Suggested selection statuses:** Selected; Not selected — rationale recorded; Deferred / not yet assessed; Unable to assess — information gap; Not applicable — rationale recorded.
+
+For selected outcomes, distinguish the outcome being considered from any evidence that an activity exists. A lack of evidence should be recorded as an information gap, not silently treated as absence of risk or failure. Record whether evidence is a policy/commitment, defined process, completed activity record, operational observation, or independent assurance; this taxonomy is repository-created, not a NIST classification.
+
+## 6. Voluntary Playbook suggestions (optional)
+
+Consult the NIST Playbook only where it helps operationalize a selected Core outcome. Suggestions are voluntary and non-exhaustive.
+
+| Core reference | Playbook suggestion / source location | Decision (adopt / adapt / defer / omit) | Context rationale | Owner / planned evidence |
+|---|---|---|---|---|
+| | | | | |
+
+Do not state that a Playbook suggestion is mandatory or that omission alone indicates nonconformance.
+
+## 7. Evidence register
+
+| Evidence ID | Document / artifact / observation | Origin / owner | Version or date | Location / link | What it supports | Limitations / verification status |
+|---|---|---|---|---|---|---|
+| E-01 | | | | | | |
+
+Record unavailable or inaccessible evidence where material. Distinguish a source’s claim from what the artifact itself demonstrates.
+
+## 8. Actions, decisions, and monitoring
+
+| ID | Risk / gap / improvement | Selected response and rationale | Owner | Due / review date | Status | Completion evidence / follow-up |
+|---|---|---|---|---|---|---|
+| A-01 | | | | | | |
+
+Include monitoring, incident response, appeal/override, change-management, and retirement actions where relevant. Record residual risks and who accepts or owns them; do not infer acceptance from silence.
+
+## 9. Reassessment triggers
+
+List events that would make this record stale or require review.
+
+- Material change to intended purpose, users, deployment context, model, data, vendor, integration, or system capability.
+- Material change in affected groups, risk understanding, performance, incidents, or feedback.
+- Material change to organizational risk tolerance, requirements, or available controls.
+- Publication of a revised NIST AI RMF or a material change to the sources used in the assessment.
+- A material change to any legal or sector-specific requirement identified for specialist review.
+- Other project-specific trigger: ______________________________________
+
+## 10. Review and sign-off
+
+| Role | Name | Review / decision | Date |
+|---|---|---|---|
+| Assessment owner | | | |
+| Relevant business / domain owner | | | |
+| Technical / data / security reviewer, as applicable | | | |
+| Risk / governance reviewer, as applicable | | | |
+| Decision-maker | | | |
+
+Sign-off means the stated record was reviewed for the stated purpose; it is not certification or proof that controls are effective.
+
+## 11. Change history
+
+| Record version/date | Change | Reason/source or project trigger | Affected outcomes/sections | Reviewed by |
+|---|---|---|---|---|
+| 0.1 / | Initial draft | | | |
+
+## Use limitation
+
+This record captures a context-specific review of selected NIST AI RMF outcomes and available documentation/evidence. It is a repository-created learning artifact. Conclusions should be phrased as documented alignment and available evidence unless the reviewed material supports a stronger claim about implementation or effectiveness. This record is not a NIST-issued template, universal checklist, maturity rating, legal opinion, certification, or proof of organizational compliance.
