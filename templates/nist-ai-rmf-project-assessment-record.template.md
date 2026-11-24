@@ -150,6 +150,8 @@ Do not state that a Playbook suggestion is mandatory or that omission alone indi
 
 Record unavailable or inaccessible evidence where material. Distinguish a source’s claim from what the artifact itself demonstrates.
 
+**Optional companion input:** A company AI-governance document analysis may help identify relevant company-stated principles, objectives, internal requirements, and supporting artifacts. It does not replace this NIST assessment or establish project implementation. If used, verify that each original source applies to this project, list the original artifact here, and record what it supports and its limits. The companion analysis is a navigation and interpretation aid, not primary evidence. See the [optional method](../working-documents/nist-company-ai-governance-document-analysis.md).
+
 ## 8. Actions, decisions, and monitoring
 
 | ID | Risk / gap / improvement | Selected response and rationale | Owner | Due / review date | Status | Completion evidence / follow-up |
