@@ -10,7 +10,7 @@
 
 This matrix is a repository-created application aid. It is not a legal obligations matrix, a universal checklist, a maturity model, a certification instrument, or a NIST-prescribed profile template.
 
-Start with the project assessment record to define the system, use context, lifecycle stage, actors, organizational risk tolerance, and scope. Then review the subcategories below. For each, record one of the repository’s proposed treatment statuses in the assessment record:
+Start with the project assessment record to define the system, use context, lifecycle stage, actors, organizational risk tolerance, and scope. **Before creating a project-specific use-case profile, search official NIST sources for relevant published profiles and document their fit and status.** Reuse, adapt, or combine a suitable existing NIST profile where appropriate; if no profile fits or it only partly fits, tailor outcomes from the Core and explain the additions or omissions. Treat drafts/concept notes as work in progress, not finalized profiles. Then review the subcategories below. For each, record one of the repository’s proposed treatment statuses in the assessment record:
 
 - **Selected** — relevant to this context and included in the assessment.
 - **Not selected — rationale recorded** — considered but excluded for a stated context-specific reason.
@@ -24,7 +24,7 @@ The matrix intentionally retains all 72 AI RMF 1.0 subcategories as a reference 
 
 For each of the 72 subcategories, assign a disposition in the assessment record. For subcategories selected for assessment, assign a project-specific focus tier: **Main focus** for outcomes central to the use context, material risks, or key decisions; **Sub-focus** for selected outcomes that support or qualify a main focus. This is a repository-created overview aid, not a NIST ranking or weighting. Both tiers remain assessed.
 
-For every selected subcategory, record:
+For every selected subcategory, record its Current Profile state (what available information and evidence show about how risk is currently managed) and Target Profile state (the desired state for this context), then identify gaps and priorities. For every selected subcategory, record:
 1. the context-specific question considered;
 2. the finding or current state, separating confirmed facts from assumptions;
 3. the evidence examined, including source, date/version, and location;
