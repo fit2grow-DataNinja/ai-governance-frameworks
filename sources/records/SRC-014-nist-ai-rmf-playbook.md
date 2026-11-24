@@ -2,7 +2,7 @@
 
 **Status:** Reviewed  
 **Reviewer:** Repository owner  
-**Date reviewed:** 23 November 2026
+**Date reviewed:** 24 November 2026
 
 ## Source identification
 
@@ -11,7 +11,7 @@
 - URL: [NIST AI RMF Playbook](https://airc.nist.gov/airmf-resources/playbook/); [NIST Playbook FAQ](https://airc.nist.gov/airmf-resources/playbook/faq/)
 - Source type: Official voluntary companion resource
 - Publication or update date: Living resource; NIST states it will be updated after the AI RMF is revised
-- Version or legal snapshot: Playbook checked 23 November 2026; aligned to the AI RMF 1.0 Core
+- Version or legal snapshot: Playbook checked 24 November 2026; aligned to the AI RMF 1.0 Core
 
 ## Relevance
 
@@ -23,7 +23,7 @@
 
 The Playbook provides suggested actions associated with outcomes in the AI RMF Core, organized by its functions and subcategories. NIST says the suggestions are voluntary; users may borrow only those that fit their context. The Playbook is not a checklist or a required sequence, and its suggestions are not intended to be comprehensive. The FAQ says users may repurpose portions to create their own internal resources or technical guidance.
 
-The Playbook page states that it will be updated after NIST revises the AI RMF.
+The Playbook page states that it will be updated after NIST revises the AI RMF; this status was rechecked on 24 November 2026.
 
 ## Evidence and limits
 
@@ -41,7 +41,7 @@ The Playbook page states that it will be updated after NIST revises the AI RMF.
 
 ## Follow-up
 
-- Related repository document(s): [NIST AI RMF application-document development approach](../../working-documents/nist-ai-rmf-documentation-development-approach.md); [NIST AI RMF orientation](../../frameworks/nist-ai-rmf/README.md)
+- Related repository document(s): [NIST AI RMF application-document development approach](../../working-documents/nist-ai-rmf-documentation-development-approach.md); [NIST AI RMF Core outcome inventory](../../working-documents/nist-ai-rmf-core-outcome-inventory.md); [NIST AI RMF orientation](../../frameworks/nist-ai-rmf/README.md)
 - Decision: Use as optional action-level support for selected Core outcomes, not as a mandatory checklist.
 - Recheck trigger: NIST updates the Playbook or releases a revised AI RMF.
 - Next review date: Before finalizing the first template version and before applying it to a new assessment.
