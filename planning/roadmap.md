@@ -62,7 +62,7 @@ The detailed workflow is in the [NIST documentation-development approach](../wor
 
 **Checkpoint:** Two reviewed NIST working-document drafts derived from NIST sources, followed by a crosswalk to selected company working materials, traceable rationales, and explicit evidence limits. The drafts are repository-created learning aids, not NIST-issued tools or compliance checklists.
 
-**Optional companion resource:** The repository includes a separate company AI-governance document analysis method for cases where public material clearly connects company-stated principles, objectives, internal requirements, and supporting documents. It may inform source discovery or project-record evidence review, but it does not change the NIST-derived matrix or add a required NIST assessment step.
+**Optional companion resource:** The repository includes a separate company AI-governance document analysis method for cases where public material makes useful links visible among company-stated AI principles, goals or objectives, internal requirements or practices, and supporting documents. Not every layer needs to be present. The method may inform source discovery or project-record evidence review, but it does not change the NIST-derived matrix or add a required NIST assessment step.
 
 ## Phase 4 — Apply the NIST materials to a bounded scenario
 
