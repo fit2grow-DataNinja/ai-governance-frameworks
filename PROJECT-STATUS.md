@@ -1,7 +1,7 @@
 # Project status — AI Governance Frameworks
 
-**Last updated:** 2026-11-23  
-**Stage:** Repository foundation established; Phases 1 and 2 complete; Phase 3 NIST working-document development planned.  
+**Last updated:** 2026-11-24  
+**Stage:** Repository foundation established; Phases 1 and 2 complete; Phase 3 NIST source baseline, outcome inventory, and first working-document drafts complete; draft review next.  
 **Status:** Active learning and documentation project. Working documents are issue-spotting drafts, not validated compliance tools.
 
 ## Purpose
@@ -31,10 +31,12 @@ Build a source-grounded AI governance knowledge base and portfolio showing how f
 - The matrix and template remain repository-authored learning aids, not legal advice or proof of compliance.
 - Project-specific application, controls, decisions, and evidence belong in the relevant solution repository.
 - No governance use-case has been completed yet; the `use-cases/` directory remains reserved.
+- Rechecked the NIST source baseline on 24 November 2026: AI RMF 1.0 remains the published baseline while revision is in progress; the Playbook update will follow the revised Framework.
+- Created a complete 72-subcategory [NIST AI RMF Core outcome inventory](working-documents/nist-ai-rmf-core-outcome-inventory.md), plus first drafts of the [application matrix](working-documents/nist-ai-rmf-application-matrix-draft.md) and [project assessment record](templates/nist-ai-rmf-project-assessment-record.template.md). These use full Core reference coverage with project-specific selection rationale; they do not assert every outcome applies.
 
 ## Next focus
 
-Proceed to Phase 3 in [the learning and work roadmap](planning/roadmap.md): derive the NIST application matrix and project assessment record from the Core, Profiles, and Playbook first. Then review actual public company working materials and map documented evidence back to NIST points. This assesses documentary alignment and available evidence; it does not establish implementation or effectiveness beyond what the sources support. The [development approach](working-documents/nist-ai-rmf-documentation-development-approach.md) defines the steps and traceability fields. No NIST application matrix or project assessment template has been drafted yet.
+Review the NIST matrix and assessment-record drafts for source fidelity and usability, as set out in [Phase 3 of the roadmap](planning/roadmap.md). After that, define a bounded sample of actual public company working materials and map documented evidence back to NIST points. This assesses documentary alignment and available evidence; it does not establish implementation or effectiveness beyond what the sources support. The [development approach](working-documents/nist-ai-rmf-documentation-development-approach.md) defines the steps and traceability fields.
 
 ## Evidence and status conventions
 
