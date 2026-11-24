@@ -32,7 +32,7 @@ Build a source-grounded AI governance knowledge base and portfolio showing how f
 - Project-specific application, controls, decisions, and evidence belong in the relevant solution repository.
 - No governance use-case has been completed yet; the `use-cases/` directory remains reserved.
 - Rechecked the NIST source baseline on 24 November 2026: AI RMF 1.0 remains the published baseline while revision is in progress; the Playbook update will follow the revised Framework.
-- Created a complete 72-subcategory [NIST AI RMF Core outcome inventory](working-documents/nist-ai-rmf-core-outcome-inventory.md), plus first drafts of the [application matrix](working-documents/nist-ai-rmf-application-matrix-draft.md) and [project assessment record](templates/nist-ai-rmf-project-assessment-record.template.md). These use full Core reference coverage with project-specific selection rationale; they do not assert every outcome applies.
+- Created a complete 72-subcategory [NIST AI RMF Core outcome inventory](working-documents/nist-ai-rmf-core-outcome-inventory.md), plus first drafts of the [application matrix](working-documents/nist-ai-rmf-application-matrix-draft.md) and [project assessment record](templates/nist-ai-rmf-project-assessment-record.template.md). The assessment record also groups selected outcomes into Main focus and Sub-focus points for overview while retaining a disposition and rationale for all 72; this repository-created hierarchy is not a NIST ranking or requirement.
 
 ## Next focus
 
