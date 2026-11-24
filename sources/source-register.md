@@ -8,7 +8,7 @@ This register prioritizes primary sources. The “Use” column describes how th
 | [NIST AI RMF 1.0](https://www.nist.gov/itl/ai-risk-management-framework) | Official voluntary framework | Core outcomes and framework orientation | AI RMF 1.0 is being revised. See [SRC-013](records/SRC-013-nist-ai-rmf-core-and-profiles.md) and the [Core outcome inventory](../working-documents/nist-ai-rmf-core-outcome-inventory.md) for the source baseline and complete AI RMF 1.0 structure used in planned application documents.
 | [NIST AI RMF Profiles](https://airc.nist.gov/airmf-resources/airmf/6-sec-profile/) | Official excerpt from AI RMF 1.0 | Tailoring outcomes to a specific setting and comparing current/target profiles | NIST does not prescribe profile templates. See [SRC-013](records/SRC-013-nist-ai-rmf-core-and-profiles.md). |
 | [NIST AI RMF Playbook](https://airc.nist.gov/airmf-resources/playbook/) | Official companion resource; suggested actions are voluntary | Optional action suggestions aligned to Core subcategories | Not a checklist or prescribed sequence; see [SRC-014](records/SRC-014-nist-ai-rmf-playbook.md).
-| [NIST AI RMF Generative AI Profile, NIST AI 600-1](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence) | Official NIST profile | GenAI-specific risks and suggested actions | Companion to AI RMF 1.0; confirm latest NIST status when updating. |
+| [NIST AI RMF Generative AI Profile, NIST AI 600-1](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence) | Official NIST profile | GenAI-specific risks and suggested actions | Companion to AI RMF 1.0; see [SRC-019](records/SRC-019-nist-generative-ai-profile.md); confirm latest NIST status when updating. |
 | [Microsoft Responsible AI Standard v2](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Microsoft-Responsible-AI-Standard-General-Requirements.pdf) | Company internal standard published externally | Documented AI development and risk-management requirements | See [SRC-015](records/SRC-015-microsoft-responsible-ai-standard-v2.md); this documents requirements, not their operational effectiveness. |
 | [Microsoft Responsible AI Impact Assessment Template](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-RAI-Impact-Assessment-Template.pdf) | Company-created assessment template published externally | Concrete prompts and fields for system impact assessment | June 2022 external release; see [SRC-016](records/SRC-016-microsoft-impact-assessment-template.md). A blank form is not a completed assessment. |
 | [Google Data Cards Playbook](https://developers.google.com/learn/pathways/data-cards-playbook) | Company-published learning toolkit | Dataset transparency documentation workflow | See [SRC-017](records/SRC-017-google-data-cards-playbook.md); toolkit availability does not establish adoption. |
@@ -70,6 +70,10 @@ See the [Phase 2 example review](../working-documents/phase-2-example-review.md)
 
 - [SRC-013 — NIST AI RMF Core and Profiles](records/SRC-013-nist-ai-rmf-core-and-profiles.md)
 - [SRC-014 — NIST AI RMF Playbook](records/SRC-014-nist-ai-rmf-playbook.md)
+
+## NIST Profile application source records
+
+- [SRC-019 — NIST Generative AI Profile](records/SRC-019-nist-generative-ai-profile.md)
 
 ## NIST company-document scan source records
 
