@@ -108,7 +108,7 @@ Copy one row for each selected outcome that is central to the assessment. Use th
 
 | NIST reference | Why this is a main focus | Current Profile: documented state (facts vs assumptions) | Evidence ID(s), source/date/location | Evidence type and limits | Target Profile: desired state, developed with relevant representatives | Target status (proposed / under discussion / agreed / approved / unresolved) | Gap / uncertainty | Action, owner, target date | Decision/status |
 |---|---|---|---|---|---|---|---|
-| e.g., MAP 1.1 | | | | | | | |
+| e.g., MAP 1.1 | | | | | | | | |
 
 ### 5.2 Sub-focus points
 
