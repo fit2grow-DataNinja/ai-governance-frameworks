@@ -22,6 +22,8 @@ These are repository-proposed labels, not NIST terminology. Do not treat “not 
 
 The matrix intentionally retains all 72 AI RMF 1.0 subcategories as a reference catalog. This lets the reviewer document selection and omissions transparently. It does **not** mean every subcategory applies to every system. NIST permits users to select outcomes based on their needs, resources, and capabilities. The assessment record should explain the tailoring. Functions may be revisited iteratively; GOVERN is cross-cutting.
 
+For each of the 72 subcategories, assign a disposition in the assessment record. For subcategories selected for assessment, assign a project-specific focus tier: **Main focus** for outcomes central to the use context, material risks, or key decisions; **Sub-focus** for selected outcomes that support or qualify a main focus. This is a repository-created overview aid, not a NIST ranking or weighting. Both tiers remain assessed.
+
 For every selected subcategory, record:
 1. the context-specific question considered;
 2. the finding or current state, separating confirmed facts from assumptions;
