@@ -30,6 +30,8 @@ The initial search used official company resource pages and direct official docu
 
 The inventory is bounded to artifacts discovered through these selected official resource paths and directly linked documents. It is not an exhaustive crawl of every document published by either organization. Each source’s publication/update date and access status should be rechecked before reuse.
 
+This scan focuses on artifacts with concrete requirements, assessment structure, technical/model information, or a reusable documentation workflow. For a separate, optional analysis of public AI-governance materials that make visible links among an organization’s stated principles, goals or objectives, internal requirements or practices, and supporting documents, see the [company AI-governance document analysis method](nist-company-ai-governance-document-analysis.md). This companion method does not change this scan’s sample or inclusion rules and does not require every layer to be present.
+
 ## Document inventory and intent classification
 
 | ID | Organization / publisher | Artifact and source | Artifact intent | Evidence class for this review | Limit |
