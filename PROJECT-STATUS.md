@@ -1,7 +1,7 @@
 # Project status — AI Governance Frameworks
 
 **Last updated:** 2026-11-24  
-**Stage:** Repository foundation established; Phases 1–3 complete; first bounded NIST use-case assessment draft completed for S02 Variant 1; owner review next.  
+**Stage:** Repository foundation established; Phases 1–3 complete; first bounded NIST application package prepared for S02 Variant 1. The business-facing overview and structured project record are accepted; review of the detailed retrospective remains open.  
 **Status:** Active learning and documentation project. Working documents are issue-spotting drafts, not validated compliance tools.
 
 ## Purpose
@@ -36,13 +36,13 @@ Build a source-grounded AI governance knowledge base and portfolio showing how f
 - Completed the NIST [draft source-fidelity and usability review](working-documents/nist-ai-rmf-draft-review-log.md), including a small table-format correction.
 - Completed an initial bounded [company-document scan](working-documents/nist-company-document-scan.md) of Microsoft and Google DeepMind / Google. It inventories four artifacts, classifies their intent, and maps supported passages to NIST Core points. Findings are limited to this purposive sample and do not validate company implementation or effectiveness.
 - Added source records SRC-015–SRC-018 for the Microsoft standard and assessment template, Google Data Cards Playbook, and Google DeepMind model card; linked them from the [source register](sources/source-register.md).
-- Applied the NIST working drafts retrospectively to S02 Variant 1. The [assessment record](https://github.com/fit2grow-DataNinja/s02-crm-data-quality-auditor/blob/main/docs/nist-ai-rmf-retrospective-assessment.md) identifies NIST AI 600-1 as partial profile input and records all 72 Core dispositions. Targets remain portfolio-proposed because no company representatives participated.
+- Applied the NIST working drafts retrospectively to S02 Variant 1. The [detailed retrospective assessment](https://github.com/fit2grow-DataNinja/s02-crm-data-quality-auditor/blob/main/docs/nist-ai-rmf-retrospective-assessment.md) identifies NIST AI 600-1 as partial profile input and records all 72 Core dispositions. Its companion [business-facing overview](https://github.com/fit2grow-DataNinja/s02-crm-data-quality-auditor/blob/main/docs/nist-ai-rmf-evaluation-overview-status.md) and [structured project assessment record](https://github.com/fit2grow-DataNinja/s02-crm-data-quality-auditor/blob/main/docs/nist-ai-rmf-project-assessment-record.md) were accepted by the portfolio owner on 24 November 2026. Targets remain portfolio-proposed because no company representatives participated. The detailed retrospective remains marked draft for review.
 - Added [SRC-019 — NIST Generative AI Profile](sources/records/SRC-019-nist-generative-ai-profile.md) and linked it from the source register.
 - Added an [optional company AI-governance document analysis method](working-documents/nist-company-ai-governance-document-analysis.md) as a complementary resource. It is not a NIST method or required assessment step; it may help organize company-stated governance intent and identify original sources relevant to a project record.
 
 ## Next focus
 
-Review the S02 retrospective assessment draft and decide whether the method needs refinement before applying it to another use case. Expand the company-document sample only if it will improve the analysis. Keep the distinction between documented alignment and available evidence versus validated operation or effectiveness. The process is in the [development approach](working-documents/nist-ai-rmf-documentation-development-approach.md), and sample limits are in the [company-document scan](working-documents/nist-company-document-scan.md).
+Complete the owner review of the detailed S02 NIST retrospective assessment and decide whether the method needs refinement before applying it to another use case. The business-facing overview and structured project assessment record are accepted. Expand the company-document sample only if it will improve the analysis. Keep the distinction between documented alignment and available evidence versus validated operation or effectiveness. The process is in the [development approach](working-documents/nist-ai-rmf-documentation-development-approach.md), and sample limits are in the [company-document scan](working-documents/nist-company-document-scan.md).
 
 ## Evidence and status conventions
 
