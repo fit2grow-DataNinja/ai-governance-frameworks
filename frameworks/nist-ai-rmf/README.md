@@ -28,7 +28,7 @@ The Playbook offers voluntary suggestions aligned to Core outcomes. NIST describ
 
 ## How this repository uses NIST
 
-Use the RMF to structure project questions, decisions, and evidence. For a portfolio project, identify relevant outcomes, explain why they matter in context, and link any claimed control to project evidence. Mapping to the RMF does not mean certification or compliance.
+Use the RMF to structure project questions, decisions, and evidence. For a portfolio project, first check official NIST sources for relevant published profiles. Reuse or adapt a suitable profile where it fits; if no published NIST profile fits, or its coverage is partial, tailor a project-specific use-case profile from the Core and document the rationale. Then describe current and target states for selected outcomes and compare them to identify gaps. Mapping to the RMF does not mean certification or compliance.
 
 ## Planned NIST working documents
 
