@@ -72,17 +72,45 @@ NIST Profiles provide the conceptual basis for context-based tailoring and compa
 | Conditions, dependencies, or review triggers | |
 | What this assessment does not establish | |
 
-## 5. Outcome-by-outcome assessment
+## 5. Core outcome review and focus hierarchy
 
-Copy one row per Core subcategory considered. Use the complete [application matrix](../working-documents/nist-ai-rmf-application-matrix-draft.md) and explain selections and omissions. These statuses are repository-proposed labels, not NIST terminology.
+Review the complete set of 72 Core subcategories in the [application matrix](../working-documents/nist-ai-rmf-application-matrix-draft.md). Assign every subcategory a disposition. For subcategories selected for assessment, also assign a focus tier so the record distinguishes the outcomes most central to this project from outcomes that support them. These tiers and labels are repository-created; NIST does not rank or weight its outcomes this way.
 
-| NIST reference | Selection status | Why relevant / why not selected | Context-specific finding (facts vs assumptions) | Evidence ID(s), source/date/location | Evidence type and limits | Gap / uncertainty | Action, owner, target date | Decision/status |
+- **Main focus points:** selected outcomes most central to the project’s context, material risks, key decisions, or constraints.
+- **Sub-focus points:** selected outcomes that support, enable, or qualify one or more main focus points. They remain part of the assessment; “sub-focus” does not mean unreviewed or unimportant.
+- **Other outcomes:** outcomes considered but not selected, deferred, unable to assess, or not applicable. Record a reason for each so the assessment remains traceable across the full Core. “Not selected” does not mean the associated risk is absent.
+
+The focus tier describes relative emphasis in this project assessment; it is not a NIST category, risk rating, maturity level, or measure of whether an outcome has been achieved. A Core outcome may be a main focus or sub-focus depending on project context.
+
+### 5.1 Main focus points
+
+Copy one row for each selected outcome that is central to the assessment. Use the matrix prompt and record findings, evidence, limitations, gaps, and actions.
+
+| NIST reference | Why this is a main focus | Context-specific finding (facts vs assumptions) | Evidence ID(s), source/date/location | Evidence type and limits | Gap / uncertainty | Action, owner, target date | Decision/status |
+|---|---|---|---|---|---|---|---|
+| e.g., MAP 1.1 | | | | | | | |
+
+### 5.2 Sub-focus points
+
+Copy one row for each selected outcome that supports or qualifies a main focus point. Where useful, identify the linked main-focus reference(s).
+
+| NIST reference | Linked main focus point(s) | Why this is a sub-focus | Context-specific finding (facts vs assumptions) | Evidence ID(s), source/date/location | Evidence type and limits | Gap / uncertainty | Action, owner, target date | Decision/status |
 |---|---|---|---|---|---|---|---|---|
-| e.g., MAP 1.1 | | | | | | | | |
+| e.g., GOVERN 2.1 | | | | | | | | |
 
-**Suggested selection statuses:** Selected; Not selected — rationale recorded; Deferred / not yet assessed; Unable to assess — information gap; Not applicable — rationale recorded.
+### 5.3 Other Core outcomes and disposition
 
-For selected outcomes, distinguish the outcome being considered from any evidence that an activity exists. A lack of evidence should be recorded as an information gap, not silently treated as absence of risk or failure. Record whether evidence is a policy/commitment, defined process, completed activity record, operational observation, or independent assurance; this taxonomy is repository-created, not a NIST classification.
+Record each remaining Core subcategory and why it was not selected, deferred, unable to assess, or considered not applicable. Use the precise status and record information gaps or follow-up where needed.
+
+| NIST reference | Disposition | Rationale / information gap | Revisit trigger or follow-up, if any |
+|---|---|---|---|
+| e.g., MEASURE 2.12 | | | |
+
+**Suggested dispositions:** Selected (Main focus); Selected (Sub-focus); Not selected — rationale recorded; Deferred / not yet assessed; Unable to assess — information gap; Not applicable — rationale recorded. These are repository-proposed labels, not NIST terminology.
+
+**Coverage check:** Confirm that all 72 Core subcategories have exactly one disposition and that every selected outcome appears in either §5.1 or §5.2. Record totals: Main focus ___; Sub-focus ___; Not selected ___; Deferred ___; Unable to assess ___; Not applicable ___; **Total reviewed: 72**.
+
+For selected outcomes, distinguish the outcome being considered from evidence that an activity exists. A lack of evidence should be recorded as an information gap, not silently treated as absence of risk or failure. Record whether evidence is a policy/commitment, defined process, completed activity record, operational observation, or independent assurance; this taxonomy is repository-created, not a NIST classification.
 
 ## 6. Voluntary Playbook suggestions (optional)
 
