@@ -24,7 +24,7 @@ The matrix intentionally retains all 72 AI RMF 1.0 subcategories as a reference 
 
 For each of the 72 subcategories, assign a disposition in the assessment record. For subcategories selected for assessment, assign a project-specific focus tier: **Main focus** for outcomes central to the use context, material risks, or key decisions; **Sub-focus** for selected outcomes that support or qualify a main focus. This is a repository-created overview aid, not a NIST ranking or weighting. Both tiers remain assessed.
 
-For every selected subcategory, record its Current Profile state (what available information and evidence show about how risk is currently managed) and Target Profile state (the desired state for this context), then identify gaps and priorities. For every selected subcategory, record:
+For every selected subcategory, record its Current Profile state (what available information and evidence show about how risk is currently managed). Develop the Target Profile state through discussion with relevant company representatives, using the Current Profile as context; record the contributors, decision owner, and whether the target is proposed, discussed, agreed, approved, or unresolved. Then identify gaps and priorities. This collaborative target-setting method is repository-designed, not a NIST-required procedure. For every selected subcategory, record:
 1. the context-specific question considered;
 2. the finding or current state, separating confirmed facts from assumptions;
 3. the evidence examined, including source, date/version, and location;
