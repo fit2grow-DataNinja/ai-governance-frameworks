@@ -2,6 +2,10 @@
 
 A practical learning and portfolio repository for applying AI governance frameworks, including NIST AI RMF and the EU AI Act. It contains source-grounded framework notes, reusable project-evaluation tools, and use-cases that connect governance principles to AI solution design and delivery.
 
+## Copyright and reuse
+
+Unless otherwise stated, original material in this repository—including documentation, templates, diagrams, and original methods—is © 2026 Balázs Bogda. All rights reserved. No additional permission is granted to reproduce, adapt, redistribute, or otherwise reuse this material beyond the rights GitHub’s Terms of Service grant for viewing and forking public repositories on GitHub. Third-party sources and materials retain their own rights and terms; consult the cited source and source records.
+
 ## Purpose and repository relationships
 
 This repository is the central source for reusable, source-grounded AI governance framework knowledge and governance methods.
